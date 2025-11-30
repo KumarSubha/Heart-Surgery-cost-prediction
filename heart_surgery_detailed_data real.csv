@@ -1,0 +1,1521 @@
+Age,Gender,Hospital_Type,Insurance_Status,Surgery_Type,Complications,Hospital_Location,Cost,Patient_Payment
+34,Male,Private,Covered,Valve Replacement,No,Cuttack,508089.62,203235.85
+45,Female,Private,Covered,Bypass,No,Cuttack,362235.87,144894.35
+45,Female,Government,Covered,Heart Transplant,No,Cuttack,1721564.86,430391.22
+57,Male,Private,Not Covered,Bypass,Yes,Cuttack,373034.09,373034.09
+85,Male,Private,Covered,Pacemaker Implant,No,Cuttack,590753.2,236301.28
+37,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,327386.23,327386.23
+24,Female,Government,Covered,Heart Transplant,Yes,Rourkela,1759801.12,439950.28
+83,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,3269401.61,1307760.64
+57,Female,Private,Not Covered,Bypass,No,Cuttack,360213.59,360213.59
+69,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,569110.15,569110.15
+95,Male,Private,Not Covered,Valve Replacement,Yes,Rourkela,452810.85,452810.85
+44,Female,Government,Covered,Angioplasty,Yes,Cuttack,162125.63,40531.41
+88,Female,Private,Not Covered,Valve Replacement,No,Bhubaneswar,318513.38,318513.38
+92,Male,Private,Covered,Heart Transplant,No,Bhubaneswar,3470641.16,1388256.46
+80,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,3712134.6,3712134.6
+27,Female,Private,Not Covered,Pacemaker Implant,No,Cuttack,345202.8,345202.8
+86,Male,Private,Covered,Angioplasty,No,Rourkela,353485.21,141394.08
+78,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2417682.36,2417682.36
+31,Female,Private,Covered,Bypass,No,Rourkela,368755.24,147502.1
+45,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,168007.02,168007.02
+67,Female,Private,Covered,Angioplasty,No,Cuttack,219978.14,87991.26
+48,Male,Private,Covered,Heart Transplant,No,Bhubaneswar,2672618.09,1069047.24
+89,Male,Government,Covered,Pacemaker Implant,No,Cuttack,494351.64,123587.91
+49,Male,Government,Not Covered,Valve Replacement,No,Rourkela,266190.12,266190.12
+25,Female,Private,Covered,Bypass,Yes,Cuttack,275450.4,110180.16
+71,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,458406.58,458406.58
+39,Male,Private,Covered,Heart Transplant,Yes,Cuttack,2514338.59,1005735.44
+31,Female,Private,Covered,Bypass,No,Rourkela,309650.15,123860.06
+66,Female,Private,Covered,Pacemaker Implant,No,Rourkela,807417.36,322966.94
+41,Male,Government,Covered,Pacemaker Implant,No,Bhubaneswar,367870.14,91967.54
+34,Female,Private,Covered,Heart Transplant,No,Rourkela,2786246.89,1114498.76
+43,Male,Government,Covered,Angioplasty,Yes,Rourkela,185791.55,46447.89
+72,Male,Government,Covered,Valve Replacement,Yes,Cuttack,222093.85,55523.46
+53,Male,Private,Covered,Valve Replacement,Yes,Cuttack,313915.81,125566.32
+71,Male,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,330790.72,330790.72
+79,Male,Private,Covered,Pacemaker Implant,Yes,Rourkela,585817.12,234326.85
+50,Male,Private,Covered,Heart Transplant,No,Cuttack,2866423.69,1146569.48
+31,Male,Private,Covered,Pacemaker Implant,Yes,Cuttack,331602.24,132640.9
+43,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,248565.04,248565.04
+43,Female,Private,Covered,Valve Replacement,Yes,Cuttack,451540.15,180616.06
+66,Male,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,600576.58,240230.63
+56,Female,Private,Covered,Heart Transplant,Yes,Cuttack,2704786.89,1081914.76
+76,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,374222.68,374222.68
+71,Male,Government,Covered,Bypass,No,Cuttack,279829.92,69957.48
+81,Female,Government,Covered,Pacemaker Implant,No,Rourkela,291083.29,72770.82
+52,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,408423.17,408423.17
+62,Female,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,2137119.78,2137119.78
+77,Female,Private,Not Covered,Bypass,No,Rourkela,381712.22,381712.22
+93,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,98035.67,98035.67
+89,Male,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,851106.84,340442.74
+84,Male,Government,Not Covered,Pacemaker Implant,No,Cuttack,205866.39,205866.39
+83,Female,Private,Not Covered,Angioplasty,No,Cuttack,215364.12,215364.12
+65,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,652062.11,652062.11
+97,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,676329.16,676329.16
+77,Male,Private,Not Covered,Bypass,Yes,Cuttack,371682.64,371682.64
+20,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,369351.36,369351.36
+56,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,785400.62,785400.62
+92,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,616560.41,616560.41
+44,Female,Private,Not Covered,Valve Replacement,Yes,Rourkela,436907.58,436907.58
+93,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2654423.23,2654423.23
+54,Female,Government,Not Covered,Angioplasty,No,Rourkela,168389.76,168389.76
+48,Male,Government,Not Covered,Pacemaker Implant,No,Cuttack,291841.4,291841.4
+79,Male,Private,Covered,Bypass,No,Cuttack,419721.37,167888.55
+26,Female,Government,Covered,Angioplasty,Yes,Rourkela,130083.84,32520.96
+59,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,433118.88,108279.72
+36,Female,Government,Covered,Angioplasty,No,Bhubaneswar,137579.98,34395
+54,Female,Private,Not Covered,Heart Transplant,No,Rourkela,2993114.88,2993114.88
+32,Female,Government,Covered,Angioplasty,No,Bhubaneswar,123731.46,30932.87
+89,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,386225.25,386225.25
+85,Male,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,732153.96,732153.96
+37,Female,Private,Covered,Angioplasty,No,Rourkela,238483.38,95393.35
+25,Female,Government,Covered,Angioplasty,No,Bhubaneswar,153037.6,38259.4
+29,Female,Government,Not Covered,Bypass,Yes,Bhubaneswar,231132.88,231132.88
+43,Male,Private,Not Covered,Bypass,No,Cuttack,375963.32,375963.32
+36,Male,Government,Covered,Valve Replacement,No,Rourkela,257919.58,64479.89
+56,Female,Private,Not Covered,Angioplasty,Yes,Cuttack,150818.66,150818.66
+78,Male,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,515950.31,515950.31
+50,Female,Government,Not Covered,Angioplasty,No,Rourkela,75795.37,75795.37
+56,Female,Private,Covered,Bypass,Yes,Bhubaneswar,359979.76,143991.9
+62,Male,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,153016.06,153016.06
+40,Female,Government,Covered,Valve Replacement,No,Bhubaneswar,291429.6,72857.4
+24,Female,Private,Covered,Angioplasty,Yes,Rourkela,210034.08,84013.63
+23,Male,Government,Not Covered,Valve Replacement,No,Cuttack,273045.52,273045.52
+79,Female,Government,Covered,Heart Transplant,Yes,Bhubaneswar,2425657.2,606414.3
+24,Male,Private,Covered,Heart Transplant,No,Cuttack,2293972.8,917589.12
+93,Female,Government,Covered,Bypass,No,Cuttack,218562.47,54640.62
+33,Male,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1761979.91,1761979.91
+99,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,228007.52,57001.88
+56,Male,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,501381,501381
+41,Female,Private,Not Covered,Heart Transplant,No,Rourkela,3048702.2,3048702.2
+80,Female,Government,Not Covered,Angioplasty,Yes,Rourkela,100930.8,100930.8
+60,Female,Government,Covered,Valve Replacement,No,Bhubaneswar,305555.92,76388.98
+86,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,484920.12,484920.12
+20,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,1651106.16,1651106.16
+22,Female,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,312253.2,312253.2
+53,Female,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,330703.65,82675.91
+23,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,260862.4,260862.4
+62,Female,Government,Not Covered,Bypass,Yes,Bhubaneswar,260284.6,260284.6
+68,Female,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,252244.78,252244.78
+73,Male,Private,Not Covered,Bypass,Yes,Cuttack,429537.01,429537.01
+98,Male,Private,Covered,Bypass,No,Bhubaneswar,520076.73,208030.69
+82,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,343849.97,137539.99
+47,Male,Government,Covered,Heart Transplant,Yes,Cuttack,1889679.05,472419.76
+72,Female,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,422154.48,422154.48
+99,Female,Private,Covered,Valve Replacement,No,Rourkela,541695.84,216678.34
+28,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,400586.4,400586.4
+21,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,373725.44,93431.36
+60,Male,Government,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,171042.72,171042.72
+83,Female,Private,Covered,Valve Replacement,No,Rourkela,402052.77,160821.11
+50,Male,Government,Covered,Heart Transplant,No,Rourkela,1936567.78,484141.95
+48,Female,Private,Covered,Angioplasty,No,Rourkela,185776.29,74310.52
+72,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2917297.42,2917297.42
+55,Male,Private,Not Covered,Bypass,Yes,Cuttack,295627.05,295627.05
+84,Female,Private,Not Covered,Bypass,No,Rourkela,438551.73,438551.73
+100,Male,Private,Covered,Valve Replacement,No,Cuttack,568753.81,227501.52
+36,Female,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,256914.96,102765.98
+50,Male,Private,Not Covered,Angioplasty,No,Cuttack,122878.4,122878.4
+97,Male,Government,Covered,Angioplasty,No,Bhubaneswar,107058.46,26764.62
+56,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,454664.54,454664.54
+42,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,408640.18,408640.18
+85,Male,Government,Not Covered,Bypass,No,Bhubaneswar,304939.4,304939.4
+36,Female,Private,Covered,Angioplasty,No,Cuttack,226702.42,90680.97
+75,Female,Government,Not Covered,Angioplasty,No,Rourkela,153811.39,153811.39
+76,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,142668.98,142668.98
+59,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,118643.53,118643.53
+39,Male,Private,Covered,Valve Replacement,No,Cuttack,478926.68,191570.67
+21,Male,Government,Not Covered,Bypass,No,Bhubaneswar,247109.28,247109.28
+80,Female,Government,Not Covered,Angioplasty,Yes,Rourkela,237086.4,237086.4
+92,Female,Government,Covered,Bypass,No,Rourkela,338100.73,84525.18
+48,Female,Private,Covered,Valve Replacement,No,Rourkela,365159.59,146063.84
+66,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3329670.76,3329670.76
+20,Female,Government,Not Covered,Bypass,No,Bhubaneswar,208718.4,208718.4
+63,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2148614.16,2148614.16
+77,Female,Private,Not Covered,Heart Transplant,Yes,Cuttack,3253466.76,3253466.76
+47,Male,Government,Covered,Bypass,Yes,Rourkela,291946.94,72986.74
+29,Male,Government,Not Covered,Pacemaker Implant,No,Cuttack,262371.12,262371.12
+74,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,583110.03,583110.03
+50,Female,Government,Covered,Pacemaker Implant,No,Cuttack,348925.28,87231.32
+47,Male,Government,Covered,Angioplasty,Yes,Cuttack,174133.56,43533.39
+53,Male,Private,Covered,Angioplasty,Yes,Cuttack,236456.71,94582.68
+37,Female,Government,Covered,Heart Transplant,Yes,Rourkela,1849553.61,462388.4
+25,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,141942,141942
+27,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,329520,329520
+89,Female,Government,Covered,Bypass,No,Cuttack,269893.54,67473.38
+98,Male,Private,Covered,Bypass,Yes,Rourkela,513219.57,205287.83
+56,Female,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,154829.89,154829.89
+61,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,453225.33,453225.33
+48,Male,Government,Covered,Valve Replacement,Yes,Rourkela,321389.2,80347.3
+51,Female,Private,Covered,Heart Transplant,No,Cuttack,2937026.75,1174810.7
+25,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,218174.4,87269.76
+30,Male,Government,Not Covered,Heart Transplant,No,Rourkela,1763828.88,1763828.88
+23,Female,Private,Not Covered,Angioplasty,No,Cuttack,170140.08,170140.08
+37,Male,Private,Not Covered,Valve Replacement,Yes,Cuttack,275117.16,275117.16
+20,Male,Private,Not Covered,Angioplasty,Yes,Cuttack,184794.72,184794.72
+77,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,148667.72,148667.72
+75,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,840822.95,840822.95
+81,Male,Private,Covered,Angioplasty,No,Bhubaneswar,287588.77,115035.51
+52,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,322920.31,80730.08
+73,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,433654.69,433654.69
+91,Female,Government,Covered,Angioplasty,Yes,Rourkela,188334.68,47083.67
+90,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,157275.98,157275.98
+59,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,1958166.82,1958166.82
+40,Female,Private,Covered,Valve Replacement,Yes,Rourkela,386048.38,154419.35
+64,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,92933.76,92933.76
+65,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,432507.16,108126.79
+36,Male,Private,Covered,Valve Replacement,Yes,Rourkela,344630.05,137852.02
+38,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,349133.99,349133.99
+61,Male,Government,Not Covered,Bypass,Yes,Rourkela,250218.46,250218.46
+48,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3472548.51,1389019.4
+62,Male,Government,Not Covered,Bypass,No,Bhubaneswar,217421.21,217421.21
+100,Female,Government,Covered,Bypass,No,Rourkela,370110.38,92527.6
+59,Female,Private,Covered,Angioplasty,Yes,Rourkela,270078.39,108031.36
+36,Female,Government,Covered,Heart Transplant,No,Cuttack,1867714.24,466928.56
+96,Male,Government,Not Covered,Heart Transplant,Yes,Rourkela,2526084.85,2526084.85
+74,Male,Government,Not Covered,Heart Transplant,No,Cuttack,1805161.78,1805161.78
+44,Female,Government,Not Covered,Bypass,Yes,Rourkela,226366.12,226366.12
+92,Male,Government,Covered,Valve Replacement,Yes,Cuttack,398994.46,99748.62
+44,Male,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,365227.81,365227.81
+63,Male,Government,Covered,Bypass,Yes,Bhubaneswar,300491.25,75122.81
+50,Female,Government,Not Covered,Bypass,No,Rourkela,238649.66,238649.66
+72,Male,Government,Covered,Pacemaker Implant,No,Rourkela,511428.09,127857.02
+24,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2349752.4,2349752.4
+30,Female,Government,Covered,Bypass,No,Cuttack,233083.2,58270.8
+40,Female,Government,Covered,Angioplasty,Yes,Cuttack,160557.94,40139.49
+50,Male,Government,Covered,Heart Transplant,No,Cuttack,1905127.58,476281.9
+66,Male,Government,Covered,Angioplasty,Yes,Bhubaneswar,72732.37,18183.09
+66,Female,Private,Covered,Angioplasty,Yes,Rourkela,253053.36,101221.34
+90,Male,Government,Covered,Angioplasty,No,Bhubaneswar,172101.28,43025.32
+89,Male,Government,Covered,Pacemaker Implant,No,Rourkela,590188.07,147547.02
+50,Male,Government,Covered,Valve Replacement,No,Cuttack,353489.66,88372.41
+90,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,164877.86,164877.86
+85,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,204216.34,204216.34
+73,Male,Private,Covered,Bypass,No,Cuttack,336232.3,134492.92
+48,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,361520.08,361520.08
+99,Female,Private,Covered,Heart Transplant,Yes,Bhubaneswar,4359920.8,1743968.32
+40,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,491704.29,491704.29
+26,Female,Private,Covered,Bypass,Yes,Rourkela,406738.08,162695.23
+29,Male,Government,Covered,Bypass,No,Rourkela,252945.6,63236.4
+85,Female,Government,Not Covered,Angioplasty,No,Rourkela,237234.46,237234.46
+26,Male,Government,Covered,Heart Transplant,No,Cuttack,1884876.4,471219.1
+62,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2248390.69,2248390.69
+57,Female,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,265832.44,265832.44
+38,Male,Government,Covered,Valve Replacement,No,Bhubaneswar,176722.62,44180.65
+45,Female,Private,Covered,Valve Replacement,Yes,Rourkela,465921.68,186368.67
+27,Male,Government,Covered,Valve Replacement,No,Rourkela,340623.36,85155.84
+27,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,155528.4,155528.4
+67,Female,Government,Not Covered,Bypass,No,Rourkela,337895.64,337895.64
+48,Male,Private,Covered,Bypass,No,Cuttack,301994.96,120797.98
+66,Male,Government,Covered,Pacemaker Implant,No,Rourkela,243460.24,60865.06
+53,Male,Government,Not Covered,Bypass,Yes,Rourkela,273074.03,273074.03
+23,Female,Private,Not Covered,Bypass,No,Rourkela,341461.56,341461.56
+65,Male,Government,Covered,Heart Transplant,Yes,Rourkela,2199818.83,549954.71
+41,Female,Private,Not Covered,Bypass,No,Rourkela,434665.91,434665.91
+83,Male,Government,Covered,Valve Replacement,Yes,Bhubaneswar,261822.62,65455.65
+90,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,608774.4,608774.4
+59,Male,Government,Covered,Valve Replacement,Yes,Cuttack,392825.96,98206.49
+30,Female,Government,Not Covered,Bypass,No,Cuttack,209080,209080
+88,Male,Private,Not Covered,Angioplasty,Yes,Cuttack,225282.14,225282.14
+75,Female,Government,Covered,Angioplasty,No,Bhubaneswar,183152.2,45788.05
+21,Male,Government,Covered,Heart Transplant,No,Cuttack,1904042.8,476010.7
+46,Female,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3435741.62,3435741.62
+47,Female,Government,Covered,Bypass,Yes,Rourkela,209288.69,52322.17
+32,Male,Private,Covered,Bypass,Yes,Cuttack,290217.04,116086.82
+38,Male,Government,Covered,Valve Replacement,Yes,Bhubaneswar,201771.65,50442.91
+23,Male,Private,Covered,Pacemaker Implant,Yes,Cuttack,444892.8,177957.12
+49,Female,Private,Not Covered,Heart Transplant,Yes,Cuttack,2902694.33,2902694.33
+48,Female,Government,Covered,Valve Replacement,No,Rourkela,340257.89,85064.47
+47,Male,Government,Not Covered,Bypass,Yes,Rourkela,285842.3,285842.3
+54,Male,Government,Not Covered,Valve Replacement,No,Cuttack,277026.53,277026.53
+73,Female,Government,Not Covered,Angioplasty,Yes,Rourkela,216191.07,216191.07
+25,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,350405.88,350405.88
+85,Male,Private,Covered,Heart Transplant,No,Cuttack,3118533.36,1247413.34
+57,Female,Government,Covered,Angioplasty,No,Cuttack,142050.06,35512.51
+56,Male,Private,Covered,Heart Transplant,Yes,Rourkela,3703378.65,1481351.46
+46,Male,Private,Not Covered,Valve Replacement,No,Cuttack,375065.38,375065.38
+76,Female,Private,Not Covered,Angioplasty,Yes,Rourkela,254135.32,254135.32
+99,Female,Government,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,250432.54,250432.54
+72,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,380797.65,95199.41
+28,Male,Private,Not Covered,Heart Transplant,No,Rourkela,3204609.12,3204609.12
+30,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2010265.92,2010265.92
+96,Male,Private,Covered,Valve Replacement,No,Bhubaneswar,372875.08,149150.03
+98,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,346227.27,346227.27
+51,Male,Government,Covered,Valve Replacement,No,Rourkela,219816.85,54954.21
+76,Female,Government,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,466024.37,466024.37
+75,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,226952.71,226952.71
+88,Male,Private,Not Covered,Bypass,No,Cuttack,416028.1,416028.1
+63,Female,Government,Not Covered,Angioplasty,Yes,Rourkela,157780.52,157780.52
+82,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,417695.44,104423.86
+45,Male,Government,Not Covered,Bypass,Yes,Rourkela,209239.12,209239.12
+91,Male,Government,Not Covered,Angioplasty,No,Cuttack,172697.54,172697.54
+53,Male,Private,Covered,Angioplasty,No,Bhubaneswar,144643.15,57857.26
+59,Male,Private,Covered,Angioplasty,Yes,Cuttack,181605.29,72642.12
+80,Female,Government,Covered,Bypass,Yes,Rourkela,342027.6,85506.9
+68,Male,Government,Not Covered,Bypass,Yes,Rourkela,285302.98,285302.98
+79,Male,Government,Not Covered,Heart Transplant,Yes,Rourkela,2363790.07,2363790.07
+67,Female,Private,Not Covered,Angioplasty,No,Cuttack,271922.09,271922.09
+43,Female,Private,Covered,Bypass,No,Rourkela,406396.33,162558.53
+49,Male,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,544339.09,544339.09
+79,Male,Private,Covered,Bypass,Yes,Cuttack,413034.23,165213.69
+61,Female,Government,Covered,Valve Replacement,No,Rourkela,395211.8,98802.95
+22,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,373226.04,373226.04
+49,Female,Government,Covered,Heart Transplant,No,Cuttack,1991774.69,497943.67
+62,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3261942.09,1304776.84
+21,Female,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,639755.16,255902.06
+76,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,241623.56,241623.56
+77,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,3254756.54,3254756.54
+62,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3049672.67,3049672.67
+59,Female,Government,Covered,Valve Replacement,Yes,Bhubaneswar,332459.45,83114.86
+35,Female,Government,Not Covered,Heart Transplant,No,Bhubaneswar,2050008.53,2050008.53
+66,Female,Private,Not Covered,Bypass,Yes,Rourkela,326817.19,326817.19
+70,Female,Private,Covered,Valve Replacement,Yes,Rourkela,388155.46,155262.18
+36,Male,Private,Not Covered,Bypass,No,Rourkela,352001.92,352001.92
+73,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,136468.8,136468.8
+55,Female,Government,Not Covered,Valve Replacement,No,Cuttack,379126.44,379126.44
+33,Female,Government,Covered,Bypass,No,Rourkela,244999.24,61249.81
+100,Female,Government,Covered,Valve Replacement,Yes,Cuttack,243082.62,60770.65
+95,Male,Government,Not Covered,Angioplasty,No,Rourkela,134788.75,134788.75
+31,Male,Private,Covered,Bypass,Yes,Bhubaneswar,311936.72,124774.69
+97,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,322900.72,129160.29
+82,Male,Private,Not Covered,Bypass,Yes,Cuttack,317557.8,317557.8
+60,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,432698.82,108174.71
+93,Female,Government,Not Covered,Bypass,No,Cuttack,274890.76,274890.76
+45,Male,Private,Covered,Angioplasty,Yes,Cuttack,281891.45,112756.58
+38,Female,Private,Not Covered,Bypass,Yes,Rourkela,357330.36,357330.36
+72,Female,Government,Covered,Angioplasty,No,Cuttack,128841.86,32210.47
+44,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,327612.09,327612.09
+91,Female,Private,Covered,Angioplasty,Yes,Cuttack,271259.54,108503.82
+30,Male,Private,Covered,Valve Replacement,No,Bhubaneswar,337872,135148.8
+24,Male,Government,Not Covered,Valve Replacement,No,Rourkela,378300.48,378300.48
+45,Female,Government,Covered,Angioplasty,No,Rourkela,77156.71,19289.18
+97,Female,Private,Covered,Angioplasty,No,Bhubaneswar,224694.92,89877.97
+66,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,713099.87,713099.87
+63,Male,Government,Covered,Valve Replacement,No,Cuttack,234138.25,58534.56
+38,Male,Private,Not Covered,Heart Transplant,No,Rourkela,3119623.6,3119623.6
+69,Female,Government,Covered,Heart Transplant,Yes,Bhubaneswar,2187834.68,546958.67
+50,Female,Government,Covered,Angioplasty,No,Bhubaneswar,123837.12,30959.28
+51,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,642733.42,642733.42
+69,Female,Private,Covered,Heart Transplant,No,Cuttack,3172452.54,1268981.02
+33,Male,Government,Covered,Angioplasty,No,Cuttack,138872.06,34718.01
+72,Male,Private,Covered,Valve Replacement,No,Bhubaneswar,311018.4,124407.36
+97,Female,Private,Covered,Angioplasty,Yes,Rourkela,163949.8,65579.92
+79,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,2014940.87,503735.22
+29,Male,Government,Covered,Pacemaker Implant,No,Rourkela,424059.84,106014.96
+31,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,384764.41,384764.41
+47,Male,Government,Covered,Bypass,Yes,Rourkela,306376.22,76594.05
+96,Male,Private,Covered,Heart Transplant,Yes,Rourkela,3636043.59,1454417.44
+91,Female,Government,Covered,Heart Transplant,Yes,Rourkela,2179076.37,544769.09
+92,Male,Government,Covered,Valve Replacement,Yes,Rourkela,384520,96130
+97,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,420809.52,420809.52
+50,Female,Private,Not Covered,Bypass,Yes,Cuttack,301845.72,301845.72
+32,Male,Government,Covered,Heart Transplant,No,Bhubaneswar,1459528.38,364882.09
+45,Male,Private,Covered,Pacemaker Implant,No,Rourkela,661989.82,264795.93
+35,Male,Private,Covered,Bypass,Yes,Bhubaneswar,341533.73,136613.49
+77,Female,Government,Not Covered,Angioplasty,No,Rourkela,197960.82,197960.82
+22,Male,Private,Not Covered,Valve Replacement,No,Rourkela,366235.2,366235.2
+46,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,139225.39,139225.39
+67,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,2974825.42,1189930.17
+51,Male,Private,Covered,Heart Transplant,Yes,Rourkela,3083384.4,1233353.76
+43,Male,Government,Covered,Valve Replacement,Yes,Rourkela,304944.26,76236.07
+35,Male,Government,Covered,Bypass,Yes,Bhubaneswar,233868.76,58467.19
+55,Male,Private,Covered,Valve Replacement,Yes,Bhubaneswar,381622.05,152648.82
+100,Male,Private,Covered,Valve Replacement,Yes,Rourkela,581979.17,232791.67
+60,Male,Private,Not Covered,Bypass,No,Rourkela,445416.11,445416.11
+54,Male,Private,Not Covered,Angioplasty,Yes,Rourkela,180933.58,180933.58
+43,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3147658.79,1259063.52
+44,Male,Government,Covered,Angioplasty,Yes,Cuttack,91459.49,22864.87
+35,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,2674283.22,1069713.29
+28,Female,Private,Covered,Bypass,Yes,Cuttack,247812,99124.8
+26,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,183441.6,183441.6
+41,Female,Private,Covered,Pacemaker Implant,No,Cuttack,666384.17,266553.67
+89,Male,Private,Covered,Heart Transplant,No,Bhubaneswar,3331028.53,1332411.41
+67,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,670649.33,670649.33
+24,Female,Government,Not Covered,Bypass,No,Bhubaneswar,219695.52,219695.52
+63,Male,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1835027.85,458756.96
+43,Female,Government,Covered,Valve Replacement,No,Cuttack,293385.77,73346.44
+49,Female,Private,Covered,Angioplasty,No,Bhubaneswar,185003.32,74001.33
+83,Male,Private,Not Covered,Bypass,No,Rourkela,532854.43,532854.43
+78,Male,Private,Covered,Bypass,Yes,Cuttack,442516.32,177006.53
+96,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,276463.91,276463.91
+53,Male,Private,Not Covered,Angioplasty,No,Rourkela,246950.38,246950.38
+94,Female,Government,Covered,Heart Transplant,No,Cuttack,2499816.63,624954.16
+84,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3434522.98,3434522.98
+95,Male,Private,Covered,Pacemaker Implant,No,Cuttack,689639.44,275855.78
+75,Male,Government,Not Covered,Bypass,Yes,Bhubaneswar,263312.28,263312.28
+70,Female,Private,Covered,Heart Transplant,No,Rourkela,3220834.75,1288333.9
+43,Female,Government,Covered,Pacemaker Implant,No,Rourkela,385908.97,96477.24
+96,Male,Government,Covered,Valve Replacement,Yes,Bhubaneswar,321518.46,80379.62
+71,Male,Government,Covered,Heart Transplant,No,Bhubaneswar,2301393.45,575348.36
+94,Female,Government,Covered,Bypass,Yes,Bhubaneswar,293981.21,73495.3
+90,Male,Government,Covered,Valve Replacement,No,Cuttack,337928.45,84482.11
+72,Female,Private,Covered,Heart Transplant,Yes,Cuttack,2739502.92,1095801.17
+53,Female,Government,Covered,Bypass,No,Cuttack,210331.82,52582.96
+35,Female,Private,Not Covered,Angioplasty,Yes,Cuttack,153470.79,153470.79
+61,Female,Private,Covered,Angioplasty,No,Bhubaneswar,199441.24,79776.5
+73,Male,Private,Not Covered,Pacemaker Implant,No,Cuttack,774492.66,774492.66
+70,Male,Government,Not Covered,Bypass,No,Cuttack,272691.84,272691.84
+40,Female,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1638139.44,409534.86
+49,Female,Private,Covered,Heart Transplant,Yes,Bhubaneswar,2925576.32,1170230.53
+68,Female,Private,Covered,Angioplasty,No,Cuttack,146307.45,58522.98
+57,Female,Government,Covered,Angioplasty,No,Rourkela,127311.04,31827.76
+98,Female,Government,Not Covered,Angioplasty,No,Cuttack,200642.06,200642.06
+82,Male,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1822318.85,1822318.85
+75,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2790049.71,2790049.71
+31,Male,Private,Covered,Heart Transplant,No,Cuttack,2872594.43,1149037.77
+66,Male,Private,Covered,Bypass,Yes,Bhubaneswar,381805.14,152722.06
+56,Male,Private,Covered,Heart Transplant,No,Cuttack,2942471.18,1176988.47
+21,Male,Government,Not Covered,Bypass,Yes,Bhubaneswar,251632.48,251632.48
+57,Female,Government,Not Covered,Valve Replacement,No,Cuttack,376104.13,376104.13
+37,Female,Private,Not Covered,Valve Replacement,No,Cuttack,328130.94,328130.94
+77,Male,Private,Not Covered,Angioplasty,Yes,Cuttack,270327.47,270327.47
+47,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,295386.95,295386.95
+82,Male,Government,Covered,Valve Replacement,No,Rourkela,360640.53,90160.13
+59,Male,Private,Not Covered,Heart Transplant,Yes,Cuttack,3273246.54,3273246.54
+44,Male,Government,Not Covered,Heart Transplant,No,Rourkela,2176738.49,2176738.49
+21,Female,Government,Covered,Angioplasty,No,Bhubaneswar,105232.8,26308.2
+53,Female,Government,Covered,Heart Transplant,Yes,Bhubaneswar,2433830.56,608457.64
+95,Male,Government,Covered,Heart Transplant,No,Rourkela,2106037.36,526509.34
+81,Female,Private,Covered,Pacemaker Implant,No,Rourkela,673968.13,269587.25
+77,Female,Private,Covered,Pacemaker Implant,No,Cuttack,566576.01,226630.4
+30,Male,Government,Covered,Pacemaker Implant,No,Cuttack,397469.6,99367.4
+74,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,452260.05,452260.05
+94,Male,Private,Not Covered,Heart Transplant,No,Rourkela,4116735.53,4116735.53
+39,Male,Private,Not Covered,Valve Replacement,Yes,Cuttack,342735.38,342735.38
+86,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,3423360.61,3423360.61
+70,Female,Private,Covered,Angioplasty,No,Cuttack,249402.38,99760.95
+29,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,252093.6,252093.6
+80,Female,Government,Not Covered,Valve Replacement,Yes,Rourkela,239706.5,239706.5
+55,Male,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1836644.4,459161.1
+71,Male,Government,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,387037.52,387037.52
+77,Male,Private,Not Covered,Bypass,No,Cuttack,431168.63,431168.63
+81,Female,Government,Not Covered,Valve Replacement,Yes,Cuttack,401867.97,401867.97
+97,Female,Government,Not Covered,Bypass,No,Rourkela,260075.09,260075.09
+86,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,359972.66,359972.66
+69,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2878307.59,2878307.59
+58,Female,Private,Covered,Valve Replacement,Yes,Rourkela,646624.6,258649.84
+44,Male,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,240816.77,240816.77
+82,Male,Government,Not Covered,Valve Replacement,No,Rourkela,292546.9,292546.9
+37,Female,Private,Not Covered,Bypass,Yes,Rourkela,309351.9,309351.9
+46,Male,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,436672.17,436672.17
+80,Male,Private,Covered,Angioplasty,Yes,Rourkela,215895.9,86358.36
+94,Female,Government,Not Covered,Bypass,Yes,Cuttack,258233.18,258233.18
+36,Male,Private,Not Covered,Angioplasty,No,Cuttack,141344.02,141344.02
+42,Female,Government,Covered,Heart Transplant,No,Rourkela,1891327.64,472831.91
+26,Male,Private,Covered,Valve Replacement,No,Cuttack,480560.52,192224.21
+100,Female,Private,Covered,Valve Replacement,No,Bhubaneswar,555493.14,222197.26
+79,Male,Government,Covered,Heart Transplant,No,Cuttack,2356593.97,589148.49
+99,Female,Government,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,460801.52,460801.52
+33,Female,Private,Not Covered,Valve Replacement,No,Rourkela,550577.41,550577.41
+91,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2092576.58,2092576.58
+94,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,341545.25,341545.25
+36,Male,Government,Covered,Heart Transplant,No,Rourkela,1983313.29,495828.32
+48,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2000093.15,2000093.15
+27,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,325546.4,81386.6
+64,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2915486.03,2915486.03
+43,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,284942.54,71235.63
+81,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,177092.05,177092.05
+69,Male,Government,Covered,Valve Replacement,Yes,Cuttack,443167.95,110791.99
+29,Male,Government,Covered,Valve Replacement,Yes,Rourkela,325580.16,81395.04
+51,Female,Private,Covered,Heart Transplant,Yes,Rourkela,2948288.34,1179315.34
+69,Female,Private,Covered,Heart Transplant,Yes,Cuttack,3055756.49,1222302.6
+93,Female,Private,Covered,Angioplasty,No,Cuttack,186289.53,74515.81
+81,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,846351.52,846351.52
+49,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,101531.64,101531.64
+28,Female,Government,Covered,Valve Replacement,Yes,Bhubaneswar,266514.4,66628.6
+100,Male,Government,Not Covered,Valve Replacement,No,Bhubaneswar,364771.08,364771.08
+55,Female,Government,Covered,Heart Transplant,Yes,Cuttack,1833406.74,458351.68
+57,Male,Government,Covered,Valve Replacement,Yes,Rourkela,302357.46,75589.37
+49,Male,Private,Not Covered,Bypass,No,Cuttack,298895.58,298895.58
+79,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,466632.47,116658.12
+56,Male,Private,Covered,Angioplasty,No,Cuttack,287352.13,114940.85
+93,Male,Government,Covered,Angioplasty,Yes,Rourkela,129878.34,32469.58
+40,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2458564.92,2458564.92
+84,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,169723.82,169723.82
+80,Male,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,240205.9,240205.9
+26,Male,Private,Not Covered,Pacemaker Implant,No,Cuttack,316674,316674
+48,Male,Government,Covered,Heart Transplant,No,Rourkela,1820591.34,455147.84
+40,Female,Private,Not Covered,Angioplasty,No,Cuttack,106030.39,106030.39
+81,Male,Private,Not Covered,Valve Replacement,No,Rourkela,606181.87,606181.87
+43,Male,Private,Not Covered,Bypass,No,Bhubaneswar,364779.8,364779.8
+63,Female,Private,Covered,Pacemaker Implant,No,Cuttack,728986.4,291594.56
+80,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,242457.6,242457.6
+53,Male,Private,Covered,Angioplasty,No,Rourkela,159184,63673.6
+91,Male,Private,Not Covered,Angioplasty,No,Bhubaneswar,130912.9,130912.9
+32,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,321045.47,321045.47
+98,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,3227265.65,1290906.26
+77,Female,Private,Covered,Angioplasty,Yes,Rourkela,352053.84,140821.54
+81,Male,Private,Covered,Heart Transplant,No,Cuttack,2739127.86,1095651.14
+24,Male,Government,Not Covered,Heart Transplant,No,Rourkela,1791982.72,1791982.72
+24,Female,Government,Covered,Angioplasty,Yes,Rourkela,169997.76,42499.44
+43,Male,Government,Covered,Bypass,Yes,Cuttack,199016.98,49754.25
+82,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,436007.58,109001.9
+98,Male,Private,Covered,Angioplasty,No,Bhubaneswar,266191.54,106476.62
+28,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,175314.48,175314.48
+52,Male,Private,Covered,Angioplasty,Yes,Cuttack,116748.6,46699.44
+36,Male,Private,Covered,Angioplasty,Yes,Bhubaneswar,125143.76,50057.5
+58,Female,Private,Not Covered,Valve Replacement,No,Rourkela,517325.62,517325.62
+76,Female,Government,Not Covered,Valve Replacement,No,Rourkela,310540.95,310540.95
+28,Male,Private,Covered,Valve Replacement,No,Rourkela,332040.96,132816.38
+39,Female,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2896089.93,2896089.93
+81,Male,Government,Covered,Valve Replacement,No,Rourkela,279549.74,69887.43
+22,Male,Private,Not Covered,Bypass,No,Rourkela,382334.04,382334.04
+64,Male,Private,Covered,Bypass,No,Bhubaneswar,497831.44,199132.58
+34,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,244392.24,61098.06
+57,Male,Government,Covered,Angioplasty,No,Cuttack,122781.49,30695.37
+89,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,3747919.8,3747919.8
+37,Male,Private,Not Covered,Valve Replacement,Yes,Rourkela,588128.23,588128.23
+24,Female,Government,Covered,Valve Replacement,Yes,Rourkela,296869.76,74217.44
+70,Male,Government,Covered,Pacemaker Implant,No,Bhubaneswar,375060.58,93765.15
+20,Female,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,1692024.8,1692024.8
+48,Male,Government,Not Covered,Angioplasty,No,Rourkela,100806.16,100806.16
+77,Female,Government,Not Covered,Angioplasty,No,Rourkela,164499.13,164499.13
+24,Female,Private,Covered,Valve Replacement,No,Cuttack,385302.72,154121.09
+45,Female,Private,Covered,Bypass,Yes,Bhubaneswar,380534.65,152213.86
+55,Female,Private,Not Covered,Bypass,No,Rourkela,311722.29,311722.29
+71,Female,Government,Not Covered,Bypass,No,Bhubaneswar,216424.46,216424.46
+95,Male,Private,Covered,Bypass,No,Bhubaneswar,513247.55,205299.02
+48,Female,Private,Not Covered,Valve Replacement,No,Bhubaneswar,327451.26,327451.26
+89,Female,Government,Not Covered,Angioplasty,Yes,Rourkela,184243.48,184243.48
+32,Male,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1648785.41,412196.35
+91,Female,Private,Not Covered,Heart Transplant,Yes,Rourkela,4088691.95,4088691.95
+21,Female,Private,Covered,Valve Replacement,Yes,Cuttack,490105.44,196042.18
+53,Female,Government,Covered,Valve Replacement,No,Cuttack,341477.22,85369.3
+54,Female,Private,Not Covered,Angioplasty,No,Cuttack,272733.75,272733.75
+37,Female,Government,Covered,Bypass,No,Bhubaneswar,263626.51,65906.63
+60,Male,Government,Not Covered,Angioplasty,No,Rourkela,143200.94,143200.94
+57,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2748605.89,2748605.89
+86,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,789730.1,789730.1
+43,Female,Government,Not Covered,Angioplasty,No,Bhubaneswar,109734.19,109734.19
+55,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,271487.7,67871.93
+58,Female,Private,Covered,Angioplasty,No,Rourkela,188525.86,75410.34
+96,Female,Government,Not Covered,Bypass,No,Rourkela,367387.71,367387.71
+49,Male,Government,Not Covered,Bypass,Yes,Bhubaneswar,271798.8,271798.8
+67,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2011962.68,2011962.68
+30,Male,Private,Covered,Bypass,No,Rourkela,431274.24,172509.7
+30,Male,Government,Covered,Bypass,No,Rourkela,240782.96,60195.74
+41,Male,Government,Covered,Angioplasty,No,Bhubaneswar,118647.83,29661.96
+100,Female,Private,Not Covered,Angioplasty,No,Cuttack,210037.54,210037.54
+49,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,211500.13,84600.05
+98,Male,Private,Covered,Pacemaker Implant,No,Cuttack,840848.61,336339.44
+70,Female,Government,Covered,Heart Transplant,No,Cuttack,1997547.84,499386.96
+42,Female,Private,Not Covered,Bypass,Yes,Rourkela,336587.99,336587.99
+54,Female,Private,Not Covered,Bypass,Yes,Cuttack,390540.86,390540.86
+76,Female,Government,Covered,Valve Replacement,Yes,Cuttack,444821.53,111205.38
+97,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,660565.48,660565.48
+92,Female,Government,Covered,Bypass,No,Bhubaneswar,308551.53,77137.88
+50,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,116906.59,116906.59
+39,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,109430.56,109430.56
+75,Male,Private,Covered,Angioplasty,No,Rourkela,282211.78,112884.71
+57,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,158101.87,158101.87
+67,Male,Government,Covered,Angioplasty,No,Rourkela,128015.27,32003.82
+25,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,294170.4,294170.4
+57,Male,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,434819.41,434819.41
+59,Female,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,496271.21,496271.21
+100,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,238658.4,238658.4
+58,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,106330.08,106330.08
+65,Male,Private,Not Covered,Angioplasty,Yes,Cuttack,317209.39,317209.39
+74,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3331353.96,3331353.96
+77,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3404302.64,3404302.64
+70,Male,Private,Not Covered,Heart Transplant,No,Cuttack,3268992.67,3268992.67
+100,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,247932.04,247932.04
+77,Female,Private,Covered,Bypass,Yes,Cuttack,301978.25,120791.3
+91,Male,Private,Not Covered,Bypass,Yes,Cuttack,323524.64,323524.64
+46,Male,Private,Covered,Valve Replacement,No,Cuttack,351417.53,140567.01
+75,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,268319.1,268319.1
+85,Female,Private,Covered,Valve Replacement,No,Cuttack,634287.36,253714.94
+38,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,212004,212004
+79,Male,Government,Not Covered,Bypass,No,Cuttack,209268.56,209268.56
+63,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,528678.86,528678.86
+51,Female,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2781452.08,2781452.08
+55,Male,Government,Not Covered,Bypass,No,Cuttack,231680.7,231680.7
+67,Male,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,532672.67,532672.67
+89,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,484388.02,484388.02
+95,Female,Government,Covered,Valve Replacement,No,Cuttack,434844.54,108711.13
+63,Male,Government,Not Covered,Valve Replacement,No,Cuttack,380208.75,380208.75
+50,Male,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,429356.4,171742.56
+53,Male,Government,Not Covered,Bypass,No,Cuttack,189608.87,189608.87
+40,Female,Private,Covered,Heart Transplant,No,Cuttack,2903890.37,1161556.15
+96,Female,Private,Covered,Bypass,No,Rourkela,421627.45,168650.98
+95,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,553801.77,553801.77
+72,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,488402.85,488402.85
+20,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,424790.08,424790.08
+44,Male,Government,Covered,Pacemaker Implant,No,Rourkela,265527.09,66381.77
+74,Male,Government,Not Covered,Valve Replacement,Yes,Rourkela,392079.11,392079.11
+68,Female,Government,Covered,Angioplasty,Yes,Cuttack,135176.76,33794.19
+98,Male,Private,Not Covered,Bypass,No,Cuttack,353563.82,353563.82
+70,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3463080.19,1385232.08
+33,Female,Private,Covered,Pacemaker Implant,No,Cuttack,580879.67,232351.87
+35,Male,Private,Not Covered,Angioplasty,No,Rourkela,116543.48,116543.48
+24,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,251166,100466.4
+69,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,302520.08,302520.08
+88,Female,Government,Not Covered,Valve Replacement,Yes,Cuttack,447181.39,447181.39
+23,Male,Government,Covered,Heart Transplant,No,Rourkela,1876118.64,469029.66
+74,Male,Government,Covered,Angioplasty,Yes,Cuttack,152578.96,38144.74
+51,Female,Government,Covered,Valve Replacement,Yes,Bhubaneswar,185233.36,46308.34
+80,Male,Government,Covered,Heart Transplant,Yes,Rourkela,2694164.4,673541.1
+23,Male,Private,Covered,Pacemaker Implant,Yes,Cuttack,537746.88,215098.75
+74,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,533001.41,133250.35
+66,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2562785.83,2562785.83
+94,Male,Government,Covered,Pacemaker Implant,No,Bhubaneswar,505731.07,126432.77
+50,Male,Private,Covered,Valve Replacement,No,Cuttack,351749.9,140699.96
+70,Male,Private,Covered,Bypass,No,Cuttack,312189.12,124875.65
+29,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,265370.16,66342.54
+73,Male,Private,Covered,Angioplasty,Yes,Bhubaneswar,126706.03,50682.41
+67,Male,Government,Covered,Valve Replacement,Yes,Cuttack,364466.94,91116.74
+47,Male,Government,Covered,Angioplasty,Yes,Cuttack,186295.8,46573.95
+20,Female,Private,Covered,Bypass,No,Rourkela,388840.32,155536.13
+37,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,131988.58,131988.58
+77,Female,Government,Covered,Valve Replacement,No,Cuttack,360917.59,90229.4
+34,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,327979.45,81994.86
+22,Female,Private,Covered,Heart Transplant,No,Cuttack,2764082.64,1105633.06
+33,Male,Government,Not Covered,Bypass,Yes,Cuttack,171921.51,171921.51
+25,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2152881.6,2152881.6
+44,Female,Private,Not Covered,Angioplasty,No,Rourkela,217379.15,217379.15
+74,Male,Government,Not Covered,Valve Replacement,Yes,Rourkela,452175.72,452175.72
+99,Male,Private,Not Covered,Pacemaker Implant,No,Cuttack,753578.21,753578.21
+51,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,499057.07,499057.07
+47,Female,Government,Not Covered,Valve Replacement,Yes,Cuttack,252069.11,252069.11
+82,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,277235.78,277235.78
+67,Male,Government,Covered,Valve Replacement,Yes,Rourkela,356778.66,89194.66
+40,Male,Private,Covered,Angioplasty,No,Bhubaneswar,137809.98,55123.99
+40,Female,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,1776021.24,1776021.24
+38,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,280984.7,280984.7
+70,Male,Private,Covered,Pacemaker Implant,Yes,Rourkela,377764.99,151106
+23,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,242301.6,96920.64
+20,Male,Government,Covered,Valve Replacement,Yes,Rourkela,344051.52,86012.88
+73,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,414664.63,414664.63
+88,Female,Private,Covered,Heart Transplant,No,Rourkela,3553863.72,1421545.49
+69,Female,Government,Covered,Heart Transplant,No,Rourkela,2256936.56,564234.14
+28,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,381050.4,381050.4
+63,Male,Government,Covered,Pacemaker Implant,No,Cuttack,334497.6,83624.4
+31,Male,Government,Not Covered,Valve Replacement,No,Bhubaneswar,245514.26,245514.26
+54,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,316855.62,316855.62
+29,Female,Private,Covered,Angioplasty,No,Bhubaneswar,191943.6,76777.44
+33,Male,Private,Not Covered,Bypass,No,Bhubaneswar,395023.95,395023.95
+63,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,1926849.42,481712.35
+31,Male,Government,Covered,Bypass,No,Bhubaneswar,250500.11,62625.03
+53,Female,Private,Covered,Angioplasty,No,Cuttack,168596.16,67438.46
+67,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,518929.04,518929.04
+49,Female,Private,Covered,Valve Replacement,Yes,Cuttack,530279.42,212111.77
+97,Male,Government,Not Covered,Bypass,No,Rourkela,242800.62,242800.62
+95,Male,Government,Not Covered,Angioplasty,No,Rourkela,154816.39,154816.39
+71,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,421644.2,168657.68
+37,Male,Private,Covered,Angioplasty,Yes,Bhubaneswar,114064.04,45625.62
+46,Male,Government,Not Covered,Heart Transplant,Yes,Cuttack,1950673.19,1950673.19
+90,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,804463.92,804463.92
+28,Male,Private,Covered,Angioplasty,No,Rourkela,185873.76,74349.5
+68,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,536376.22,536376.22
+88,Male,Private,Covered,Heart Transplant,No,Bhubaneswar,3103320.49,1241328.2
+67,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3221869.48,1288747.79
+64,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,611659.9,611659.9
+69,Male,Government,Not Covered,Heart Transplant,No,Cuttack,1762421.37,1762421.37
+58,Female,Private,Covered,Valve Replacement,Yes,Cuttack,483233.41,193293.36
+85,Female,Private,Covered,Valve Replacement,Yes,Rourkela,702418.72,280967.49
+91,Male,Private,Covered,Angioplasty,Yes,Bhubaneswar,253975.45,101590.18
+96,Female,Government,Covered,Bypass,No,Cuttack,282404.75,70601.19
+90,Male,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,358583.16,358583.16
+80,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,338032.5,338032.5
+53,Female,Private,Covered,Pacemaker Implant,Yes,Rourkela,297024.76,118809.9
+43,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,2642514.21,1057005.68
+35,Male,Government,Not Covered,Bypass,No,Cuttack,192226.04,192226.04
+48,Female,Private,Not Covered,Valve Replacement,No,Rourkela,553001.47,553001.47
+86,Female,Government,Not Covered,Bypass,No,Bhubaneswar,256573.64,256573.64
+100,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,340141.03,340141.03
+90,Female,Government,Not Covered,Valve Replacement,Yes,Rourkela,464868.77,464868.77
+90,Female,Government,Not Covered,Valve Replacement,No,Rourkela,338928.3,338928.3
+79,Male,Private,Covered,Bypass,Yes,Rourkela,512389.41,204955.76
+69,Male,Private,Covered,Valve Replacement,No,Bhubaneswar,407809.52,163123.81
+34,Male,Government,Not Covered,Valve Replacement,No,Rourkela,292505.4,292505.4
+77,Male,Private,Not Covered,Bypass,Yes,Cuttack,300767.45,300767.45
+43,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,373828.46,373828.46
+49,Male,Private,Not Covered,Heart Transplant,Yes,Cuttack,2603620.7,2603620.7
+34,Female,Government,Covered,Bypass,Yes,Rourkela,270068.26,67517.07
+42,Male,Government,Covered,Valve Replacement,Yes,Cuttack,205179.62,51294.9
+59,Female,Private,Covered,Bypass,Yes,Rourkela,383634.54,153453.82
+68,Female,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,529373.88,529373.88
+85,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2208165.56,2208165.56
+75,Male,Private,Not Covered,Bypass,Yes,Cuttack,436751.7,436751.7
+53,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3555776.21,3555776.21
+71,Male,Private,Covered,Heart Transplant,No,Rourkela,3579009.06,1431603.62
+33,Male,Government,Not Covered,Valve Replacement,No,Rourkela,262762.55,262762.55
+34,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,457125.81,114281.45
+97,Female,Private,Not Covered,Angioplasty,Yes,Rourkela,302157.39,302157.39
+99,Female,Private,Not Covered,Bypass,Yes,Cuttack,475824.95,475824.95
+22,Male,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1739603.2,1739603.2
+53,Male,Government,Covered,Angioplasty,No,Cuttack,134501.11,33625.28
+44,Male,Government,Covered,Valve Replacement,Yes,Cuttack,276013.09,69003.27
+43,Male,Private,Not Covered,Bypass,Yes,Rourkela,335855.33,335855.33
+94,Female,Private,Covered,Angioplasty,No,Bhubaneswar,132411.31,52964.52
+51,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,313666.63,125466.65
+55,Male,Government,Covered,Valve Replacement,Yes,Cuttack,272128.68,68032.17
+28,Female,Government,Covered,Bypass,No,Rourkela,242352.96,60588.24
+87,Male,Government,Not Covered,Bypass,No,Bhubaneswar,294832.35,294832.35
+52,Female,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,1905607.15,1905607.15
+29,Female,Government,Covered,Angioplasty,No,Rourkela,128856.96,32214.24
+79,Female,Government,Covered,Angioplasty,Yes,Rourkela,180995.11,45248.78
+24,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,427851.6,427851.6
+55,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,680269.59,680269.59
+92,Female,Government,Covered,Valve Replacement,No,Cuttack,478999.72,119749.93
+57,Male,Private,Covered,Angioplasty,No,Cuttack,142794.94,57117.98
+28,Female,Private,Not Covered,Angioplasty,No,Rourkela,258513.12,258513.12
+99,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3779675.69,1511870.28
+88,Male,Private,Covered,Bypass,No,Cuttack,406176.62,162470.65
+58,Male,Government,Not Covered,Bypass,Yes,Bhubaneswar,290020.1,290020.1
+76,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,615686.98,615686.98
+64,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3729857.41,1491942.96
+94,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3539836.08,3539836.08
+92,Male,Government,Not Covered,Bypass,Yes,Cuttack,257063.92,257063.92
+92,Male,Government,Not Covered,Heart Transplant,Yes,Cuttack,1924689.73,1924689.73
+22,Male,Private,Covered,Valve Replacement,Yes,Rourkela,372369.36,148947.74
+79,Female,Government,Covered,Angioplasty,Yes,Bhubaneswar,76762.72,19190.68
+85,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2258380.37,2258380.37
+90,Female,Government,Not Covered,Bypass,Yes,Rourkela,340213.54,340213.54
+56,Female,Government,Covered,Angioplasty,Yes,Bhubaneswar,111962.21,27990.55
+98,Female,Private,Not Covered,Bypass,Yes,Cuttack,365480.71,365480.71
+22,Male,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1678748,1678748
+45,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,261012.58,261012.58
+30,Male,Government,Covered,Angioplasty,Yes,Rourkela,154625.28,38656.32
+85,Female,Government,Not Covered,Bypass,Yes,Cuttack,214631.46,214631.46
+22,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,321826.8,321826.8
+58,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,154812.46,154812.46
+57,Male,Government,Covered,Valve Replacement,Yes,Rourkela,225947.08,56486.77
+81,Male,Private,Covered,Bypass,Yes,Cuttack,336581.96,134632.78
+61,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,358533.81,358533.81
+62,Female,Government,Covered,Angioplasty,Yes,Cuttack,128552.41,32138.1
+99,Male,Private,Not Covered,Angioplasty,No,Cuttack,206846.53,206846.53
+23,Male,Private,Covered,Bypass,No,Cuttack,272132.4,108852.96
+23,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,354695.04,354695.04
+98,Male,Government,Not Covered,Angioplasty,No,Rourkela,103328.79,103328.79
+34,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,1845291.47,1845291.47
+68,Female,Government,Covered,Angioplasty,No,Rourkela,131001.58,32750.4
+40,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,332522.4,332522.4
+82,Male,Private,Not Covered,Angioplasty,No,Bhubaneswar,182726.71,182726.71
+43,Female,Private,Covered,Angioplasty,No,Rourkela,164498.28,65799.31
+79,Female,Government,Covered,Valve Replacement,Yes,Cuttack,418451.27,104612.82
+49,Female,Private,Covered,Bypass,Yes,Rourkela,392858.14,157143.26
+66,Female,Private,Not Covered,Bypass,No,Rourkela,323339.07,323339.07
+69,Male,Government,Not Covered,Bypass,Yes,Cuttack,195013.48,195013.48
+66,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,1903680.78,475920.2
+71,Male,Private,Covered,Angioplasty,No,Rourkela,280194.89,112077.96
+35,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,467568.51,467568.51
+41,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,120253.8,120253.8
+27,Female,Government,Covered,Angioplasty,No,Rourkela,134440.32,33610.08
+49,Male,Private,Covered,Valve Replacement,No,Cuttack,360338.22,144135.29
+68,Male,Government,Covered,Bypass,No,Cuttack,276202.81,69050.7
+86,Female,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,2208846.85,2208846.85
+58,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,332504.71,332504.71
+32,Male,Private,Not Covered,Bypass,No,Rourkela,403875.24,403875.24
+88,Male,Private,Covered,Angioplasty,Yes,Bhubaneswar,279937.22,111974.89
+77,Female,Private,Covered,Valve Replacement,No,Bhubaneswar,548520.8,219408.32
+26,Female,Private,Not Covered,Valve Replacement,No,Rourkela,335521.56,335521.56
+49,Male,Government,Covered,Angioplasty,Yes,Rourkela,209673.4,52418.35
+56,Male,Government,Not Covered,Heart Transplant,Yes,Rourkela,2269209.86,2269209.86
+51,Male,Private,Covered,Heart Transplant,No,Cuttack,3044009.23,1217603.69
+41,Male,Private,Covered,Angioplasty,No,Bhubaneswar,249991.96,99996.78
+90,Male,Private,Not Covered,Angioplasty,Yes,Rourkela,340291.38,340291.38
+95,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,800900.17,800900.17
+97,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,771545.63,771545.63
+30,Female,Private,Covered,Pacemaker Implant,Yes,Rourkela,374293.44,149717.38
+51,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,229468.28,229468.28
+65,Female,Government,Covered,Valve Replacement,No,Bhubaneswar,208456.28,52114.07
+52,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,499815.42,499815.42
+28,Male,Government,Covered,Bypass,No,Rourkela,200101.44,50025.36
+80,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,472942.5,472942.5
+77,Male,Government,Not Covered,Bypass,Yes,Bhubaneswar,260266.47,260266.47
+44,Male,Government,Not Covered,Valve Replacement,Yes,Rourkela,260981.39,260981.39
+20,Male,Government,Covered,Heart Transplant,No,Rourkela,1835980.8,458995.2
+96,Female,Government,Covered,Valve Replacement,No,Bhubaneswar,353883.21,88470.8
+35,Male,Government,Covered,Bypass,No,Bhubaneswar,236725.39,59181.35
+49,Male,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,188460.89,188460.89
+67,Female,Private,Covered,Heart Transplant,No,Cuttack,3330230.29,1332092.12
+65,Male,Private,Covered,Bypass,No,Cuttack,307262.97,122905.19
+75,Male,Private,Covered,Angioplasty,No,Rourkela,165989.9,66395.96
+98,Male,Private,Covered,Valve Replacement,Yes,Cuttack,522797.14,209118.86
+53,Male,Private,Not Covered,Bypass,Yes,Bhubaneswar,468032.4,468032.4
+69,Female,Private,Covered,Angioplasty,No,Cuttack,247141.3,98856.52
+62,Male,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,405152.46,162060.98
+91,Female,Government,Covered,Valve Replacement,Yes,Cuttack,277965.63,69491.41
+71,Female,Government,Covered,Bypass,No,Bhubaneswar,312440.5,78110.12
+43,Male,Private,Not Covered,Angioplasty,No,Rourkela,216530.52,216530.52
+21,Male,Government,Covered,Bypass,Yes,Rourkela,260468.16,65117.04
+35,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,401822.06,401822.06
+77,Male,Government,Covered,Heart Transplant,No,Rourkela,2200384.19,550096.05
+68,Female,Government,Covered,Heart Transplant,Yes,Rourkela,2058279.98,514569.99
+45,Female,Government,Not Covered,Angioplasty,No,Bhubaneswar,81278.6,81278.6
+76,Female,Private,Not Covered,Bypass,Yes,Rourkela,455961.79,455961.79
+21,Male,Government,Not Covered,Valve Replacement,No,Bhubaneswar,199600,199600
+56,Male,Private,Not Covered,Bypass,No,Cuttack,359350.85,359350.85
+76,Male,Government,Not Covered,Angioplasty,No,Cuttack,82675.88,82675.88
+42,Female,Private,Covered,Pacemaker Implant,No,Bhubaneswar,432368.06,172947.22
+64,Female,Government,Covered,Bypass,No,Cuttack,196403.69,49100.92
+82,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,260484.84,260484.84
+56,Female,Government,Covered,Valve Replacement,Yes,Bhubaneswar,360408.53,90102.13
+53,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,294663.19,294663.19
+29,Male,Government,Not Covered,Bypass,Yes,Cuttack,190225.6,190225.6
+61,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,171891.54,171891.54
+70,Female,Private,Not Covered,Pacemaker Implant,No,Cuttack,375485.76,375485.76
+45,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2388405.33,2388405.33
+25,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,270029.76,67507.44
+88,Female,Private,Covered,Heart Transplant,Yes,Cuttack,3157207.46,1262882.98
+46,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,296932.52,296932.52
+52,Male,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1924542.86,1924542.86
+42,Male,Government,Covered,Valve Replacement,No,Bhubaneswar,210416.78,52604.19
+89,Female,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,2280400.72,2280400.72
+33,Female,Government,Not Covered,Heart Transplant,No,Cuttack,1624877.28,1624877.28
+89,Female,Private,Covered,Valve Replacement,No,Rourkela,466669.93,186667.97
+73,Male,Government,Covered,Bypass,Yes,Bhubaneswar,302822.03,75705.51
+57,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2452484.76,2452484.76
+93,Female,Private,Covered,Pacemaker Implant,Yes,Rourkela,925409.89,370163.96
+75,Female,Government,Covered,Heart Transplant,Yes,Cuttack,2242333.79,560583.45
+68,Female,Government,Covered,Angioplasty,Yes,Cuttack,208654.6,52163.65
+53,Female,Government,Covered,Pacemaker Implant,No,Cuttack,480253.25,120063.31
+69,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,128573.87,128573.87
+63,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,571204.35,571204.35
+91,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,3721988.62,3721988.62
+68,Male,Government,Covered,Valve Replacement,Yes,Bhubaneswar,347075.4,86768.85
+47,Female,Government,Not Covered,Bypass,Yes,Bhubaneswar,259555.7,259555.7
+50,Male,Private,Not Covered,Bypass,Yes,Rourkela,379740.24,379740.24
+98,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,4212712.37,4212712.37
+36,Male,Government,Covered,Valve Replacement,No,Rourkela,277332.11,69333.03
+69,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,141844.11,141844.11
+36,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,394768.51,157907.4
+93,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,207032.02,82812.81
+91,Female,Private,Not Covered,Heart Transplant,No,Rourkela,3735629.73,3735629.73
+93,Female,Government,Not Covered,Heart Transplant,No,Cuttack,2284429.68,2284429.68
+71,Female,Private,Covered,Angioplasty,No,Rourkela,244722.2,97888.88
+27,Female,Government,Not Covered,Heart Transplant,No,Cuttack,1593897.36,1593897.36
+39,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,214828.68,53707.17
+85,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3662252.68,3662252.68
+68,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3184624.5,3184624.5
+98,Female,Private,Covered,Bypass,Yes,Bhubaneswar,542393.19,216957.28
+89,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,430980.14,430980.14
+53,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,110234.88,110234.88
+68,Male,Private,Not Covered,Valve Replacement,No,Rourkela,384239.67,384239.67
+40,Female,Private,Not Covered,Angioplasty,Yes,Rourkela,123546.65,123546.65
+57,Female,Government,Not Covered,Bypass,Yes,Rourkela,257132.52,257132.52
+69,Female,Government,Not Covered,Bypass,No,Cuttack,222353.17,222353.17
+77,Female,Government,Covered,Bypass,No,Bhubaneswar,258444.3,64611.07
+40,Male,Private,Not Covered,Bypass,No,Cuttack,255012.66,255012.66
+94,Male,Private,Covered,Pacemaker Implant,No,Cuttack,550142.21,220056.88
+51,Male,Government,Not Covered,Heart Transplant,No,Cuttack,1877645.17,1877645.17
+33,Female,Government,Covered,Bypass,No,Bhubaneswar,250955.26,62738.82
+57,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,347058.03,347058.03
+91,Male,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,406882.82,406882.82
+60,Male,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,590955.19,590955.19
+20,Male,Government,Not Covered,Bypass,No,Bhubaneswar,216283.76,216283.76
+29,Female,Government,Covered,Valve Replacement,No,Rourkela,206909.76,51727.44
+41,Female,Government,Covered,Heart Transplant,No,Cuttack,1998329.01,499582.25
+25,Female,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,181772.8,181772.8
+23,Female,Government,Not Covered,Bypass,Yes,Cuttack,234208.8,234208.8
+95,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,285745.9,71436.48
+93,Male,Government,Not Covered,Bypass,No,Cuttack,249583.84,249583.84
+59,Male,Private,Covered,Pacemaker Implant,No,Rourkela,597307.48,238922.99
+85,Male,Government,Not Covered,Valve Replacement,Yes,Rourkela,413885.6,413885.6
+89,Female,Private,Covered,Pacemaker Implant,No,Cuttack,587189.78,234875.91
+29,Female,Government,Not Covered,Valve Replacement,No,Cuttack,338030,338030
+60,Female,Private,Not Covered,Valve Replacement,No,Cuttack,351152.87,351152.87
+38,Female,Private,Not Covered,Angioplasty,No,Rourkela,285830.44,285830.44
+29,Male,Private,Covered,Heart Transplant,Yes,Rourkela,2745563.04,1098225.22
+70,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,535266.43,535266.43
+69,Female,Government,Covered,Angioplasty,No,Bhubaneswar,106702.98,26675.74
+30,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,299770.56,74942.64
+42,Male,Private,Covered,Pacemaker Implant,Yes,Rourkela,366172.68,146469.07
+94,Male,Private,Covered,Heart Transplant,No,Cuttack,3303792.52,1321517.01
+40,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,494552.52,494552.52
+49,Male,Government,Covered,Bypass,No,Rourkela,266366.72,66591.68
+77,Male,Private,Not Covered,Angioplasty,No,Rourkela,219577.27,219577.27
+25,Male,Government,Not Covered,Angioplasty,No,Cuttack,98680.32,98680.32
+48,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,241135.03,241135.03
+53,Female,Government,Covered,Heart Transplant,Yes,Cuttack,1623504.22,405876.05
+79,Male,Government,Not Covered,Valve Replacement,Yes,Rourkela,268303.28,268303.28
+78,Male,Government,Covered,Angioplasty,Yes,Rourkela,164019.26,41004.82
+80,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,157966.6,157966.6
+46,Female,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2820445.92,2820445.92
+74,Male,Private,Not Covered,Bypass,Yes,Bhubaneswar,420360.08,420360.08
+58,Male,Government,Covered,Angioplasty,No,Bhubaneswar,129417.36,32354.34
+78,Female,Private,Covered,Angioplasty,Yes,Cuttack,144726.45,57890.58
+88,Female,Government,Covered,Bypass,No,Bhubaneswar,285206.51,71301.63
+38,Female,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,72542.08,72542.08
+51,Male,Private,Covered,Bypass,Yes,Bhubaneswar,326934.32,130773.73
+95,Female,Government,Covered,Pacemaker Implant,No,Rourkela,553817.35,138454.34
+99,Male,Government,Not Covered,Angioplasty,No,Cuttack,215632.98,215632.98
+86,Female,Government,Covered,Valve Replacement,Yes,Cuttack,354691.89,88672.97
+46,Female,Government,Covered,Valve Replacement,Yes,Cuttack,400291.89,100072.97
+53,Male,Government,Covered,Angioplasty,Yes,Cuttack,125554.71,31388.68
+35,Male,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,401454.04,401454.04
+84,Female,Government,Covered,Heart Transplant,No,Rourkela,2219260.79,554815.2
+100,Male,Private,Not Covered,Bypass,Yes,Rourkela,390660.41,390660.41
+65,Male,Government,Covered,Valve Replacement,No,Rourkela,266131.95,66532.99
+99,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,368718.3,92179.57
+20,Male,Private,Covered,Angioplasty,No,Rourkela,145818.72,58327.49
+70,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3441732.62,3441732.62
+50,Female,Private,Covered,Valve Replacement,No,Rourkela,419663.38,167865.35
+75,Female,Private,Not Covered,Valve Replacement,Yes,Rourkela,542995.07,542995.07
+69,Female,Private,Covered,Angioplasty,No,Bhubaneswar,112384.01,44953.6
+91,Female,Government,Covered,Pacemaker Implant,No,Cuttack,360974.28,90243.57
+57,Female,Private,Not Covered,Angioplasty,Yes,Rourkela,299204.7,299204.7
+64,Male,Private,Covered,Valve Replacement,Yes,Rourkela,478821.84,191528.74
+27,Male,Government,Covered,Angioplasty,No,Rourkela,78160.32,19540.08
+56,Male,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,152468.64,152468.64
+47,Female,Private,Covered,Pacemaker Implant,No,Bhubaneswar,643782.49,257513
+68,Male,Private,Not Covered,Valve Replacement,No,Rourkela,548284.6,548284.6
+65,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,408586.98,163434.79
+58,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,340623.79,85155.95
+100,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,515208.6,206083.44
+40,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,239720.04,239720.04
+80,Female,Private,Covered,Valve Replacement,No,Cuttack,585827.55,234331.02
+96,Male,Government,Covered,Angioplasty,No,Bhubaneswar,137935.9,34483.97
+51,Male,Private,Covered,Valve Replacement,Yes,Rourkela,550662.34,220264.94
+48,Female,Government,Covered,Angioplasty,No,Bhubaneswar,117660.7,29415.17
+51,Male,Private,Covered,Valve Replacement,Yes,Bhubaneswar,384306.62,153722.65
+44,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,531576.51,212630.6
+44,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,382740.88,95685.22
+50,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,216675.36,216675.36
+27,Female,Government,Covered,Valve Replacement,Yes,Rourkela,333328.32,83332.08
+56,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,106795.85,106795.85
+25,Male,Government,Not Covered,Bypass,Yes,Cuttack,172890.4,172890.4
+37,Female,Government,Covered,Angioplasty,No,Cuttack,189288.75,47322.19
+70,Male,Private,Covered,Bypass,No,Cuttack,380855.52,152342.21
+58,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,477382.75,477382.75
+24,Female,Private,Not Covered,Valve Replacement,No,Cuttack,473758.56,473758.56
+39,Male,Private,Covered,Bypass,Yes,Rourkela,417550.4,167020.16
+84,Female,Private,Covered,Bypass,Yes,Rourkela,410717.39,164286.96
+42,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,265250.16,66312.54
+23,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,204521.28,204521.28
+34,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,354619.32,354619.32
+35,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,173042.14,173042.14
+68,Male,Private,Not Covered,Angioplasty,No,Cuttack,233455.44,233455.44
+68,Male,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,97548.58,97548.58
+27,Female,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1800910.4,1800910.4
+50,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,2449044.84,979617.94
+35,Male,Government,Not Covered,Bypass,Yes,Rourkela,181567.19,181567.19
+40,Male,Government,Not Covered,Valve Replacement,No,Cuttack,240374.9,240374.9
+54,Female,Government,Not Covered,Valve Replacement,Yes,Rourkela,316077.62,316077.62
+27,Female,Government,Not Covered,Valve Replacement,Yes,Cuttack,225868.72,225868.72
+67,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,326407.87,326407.87
+76,Male,Private,Not Covered,Angioplasty,Yes,Rourkela,295340.52,295340.52
+86,Male,Government,Covered,Heart Transplant,No,Bhubaneswar,2158341.12,539585.28
+64,Male,Government,Covered,Angioplasty,Yes,Rourkela,200155.27,50038.82
+92,Male,Private,Covered,Angioplasty,Yes,Cuttack,236976.48,94790.59
+83,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,224140.59,224140.59
+46,Male,Government,Covered,Bypass,No,Rourkela,232517.95,58129.49
+28,Male,Private,Covered,Pacemaker Implant,No,Bhubaneswar,251011.2,100404.48
+80,Female,Private,Not Covered,Bypass,No,Rourkela,461908.8,461908.8
+67,Male,Government,Not Covered,Angioplasty,No,Cuttack,151637.72,151637.72
+90,Male,Private,Covered,Valve Replacement,Yes,Rourkela,609908.83,243963.53
+35,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,2713383.69,1085353.48
+32,Male,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,170755.45,170755.45
+86,Female,Government,Not Covered,Angioplasty,No,Cuttack,128882.69,128882.69
+85,Female,Private,Covered,Bypass,Yes,Rourkela,550581.52,220232.61
+45,Female,Government,Covered,Bypass,No,Rourkela,300923.98,75230.99
+23,Female,Government,Covered,Heart Transplant,Yes,Rourkela,1826777.28,456694.32
+88,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,301507.98,301507.98
+51,Male,Private,Not Covered,Angioplasty,No,Cuttack,187853.09,187853.09
+87,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,249574.76,249574.76
+44,Male,Government,Covered,Bypass,Yes,Rourkela,304459,76114.75
+26,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,207688.8,83075.52
+36,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,141120.3,141120.3
+36,Female,Government,Covered,Valve Replacement,No,Rourkela,326854.76,81713.69
+56,Female,Government,Covered,Valve Replacement,No,Rourkela,391128.98,97782.24
+44,Male,Government,Not Covered,Valve Replacement,No,Bhubaneswar,250130.9,250130.9
+99,Female,Government,Not Covered,Bypass,Yes,Cuttack,274172.33,274172.33
+33,Female,Government,Covered,Valve Replacement,Yes,Cuttack,296766.59,74191.65
+87,Female,Private,Covered,Bypass,No,Rourkela,544341.42,217736.57
+87,Female,Government,Not Covered,Angioplasty,No,Rourkela,216417.85,216417.85
+63,Male,Government,Not Covered,Bypass,Yes,Cuttack,204985.01,204985.01
+74,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,235948.49,235948.49
+70,Female,Government,Covered,Pacemaker Implant,No,Rourkela,239867.14,59966.79
+78,Male,Government,Not Covered,Bypass,No,Cuttack,286304.1,286304.1
+84,Male,Government,Covered,Heart Transplant,Yes,Rourkela,2395490.66,598872.67
+75,Male,Government,Covered,Pacemaker Implant,No,Bhubaneswar,420362.87,105090.72
+91,Female,Government,Covered,Valve Replacement,No,Rourkela,273206.66,68301.66
+64,Female,Private,Not Covered,Angioplasty,No,Rourkela,329615.96,329615.96
+38,Female,Government,Covered,Valve Replacement,Yes,Cuttack,356881.32,89220.33
+74,Female,Government,Covered,Heart Transplant,No,Cuttack,2065283.25,516320.81
+70,Male,Private,Not Covered,Angioplasty,No,Rourkela,255457.15,255457.15
+60,Male,Government,Not Covered,Heart Transplant,No,Rourkela,2533787.09,2533787.09
+26,Female,Government,Covered,Pacemaker Implant,No,Rourkela,239154.24,59788.56
+42,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,291375.34,291375.34
+53,Male,Private,Not Covered,Pacemaker Implant,No,Cuttack,411945.05,411945.05
+62,Male,Government,Covered,Heart Transplant,No,Cuttack,2024183.11,506045.78
+58,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,747750.17,747750.17
+42,Female,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1901708.69,475427.17
+72,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,439879.33,439879.33
+40,Male,Government,Covered,Pacemaker Implant,No,Rourkela,299285.28,74821.32
+21,Female,Government,Not Covered,Bypass,No,Cuttack,199358.4,199358.4
+48,Female,Private,Covered,Valve Replacement,Yes,Cuttack,294490.71,117796.28
+54,Female,Private,Not Covered,Angioplasty,Yes,Cuttack,225305.2,225305.2
+50,Female,Private,Not Covered,Bypass,Yes,Rourkela,432555.16,432555.16
+91,Female,Private,Covered,Bypass,Yes,Cuttack,431321.81,172528.72
+93,Male,Private,Covered,Pacemaker Implant,Yes,Rourkela,813789.75,325515.9
+64,Male,Government,Covered,Bypass,No,Bhubaneswar,298311.16,74577.79
+93,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,343348.6,343348.6
+47,Male,Private,Not Covered,Bypass,No,Cuttack,300030.28,300030.28
+79,Male,Private,Not Covered,Bypass,Yes,Bhubaneswar,378951.61,378951.61
+45,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,1823762.44,455940.61
+100,Male,Private,Covered,Valve Replacement,No,Rourkela,614257.34,245702.94
+73,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,75219.19,75219.19
+63,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,291288.54,291288.54
+58,Male,Private,Not Covered,Valve Replacement,No,Cuttack,527209.69,527209.69
+47,Male,Government,Covered,Valve Replacement,Yes,Rourkela,312647.7,78161.93
+88,Male,Government,Not Covered,Bypass,No,Rourkela,323700.42,323700.42
+68,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,126881.8,126881.8
+94,Male,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,632690.78,632690.78
+51,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3410780.16,1364312.06
+37,Female,Private,Not Covered,Heart Transplant,No,Cuttack,2564516.38,2564516.38
+34,Female,Private,Not Covered,Angioplasty,No,Cuttack,148448.68,148448.68
+20,Male,Private,Not Covered,Bypass,Yes,Cuttack,254523.6,254523.6
+24,Female,Private,Not Covered,Valve Replacement,No,Bhubaneswar,338745.6,338745.6
+80,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,337936.5,337936.5
+61,Female,Private,Covered,Heart Transplant,No,Cuttack,2763849.77,1105539.91
+71,Male,Government,Covered,Bypass,Yes,Bhubaneswar,304249.97,76062.49
+90,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,416587.39,104146.85
+89,Male,Private,Not Covered,Bypass,No,Bhubaneswar,433126.06,433126.06
+47,Female,Private,Covered,Heart Transplant,Yes,Rourkela,2896561.48,1158624.59
+45,Male,Private,Not Covered,Angioplasty,Yes,Cuttack,162679.84,162679.84
+78,Male,Government,Not Covered,Angioplasty,No,Cuttack,194364.54,194364.54
+50,Female,Private,Covered,Valve Replacement,Yes,Cuttack,410406.35,164162.54
+92,Female,Government,Covered,Angioplasty,No,Rourkela,197512.37,49378.09
+81,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,145688.03,145688.03
+35,Female,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,113636.42,113636.42
+61,Male,Private,Covered,Heart Transplant,Yes,Rourkela,3587171.46,1434868.58
+35,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,352189.84,352189.84
+23,Male,Government,Not Covered,Valve Replacement,No,Rourkela,194146.48,194146.48
+63,Male,Government,Covered,Heart Transplant,No,Cuttack,1969661.4,492415.35
+27,Male,Private,Covered,Bypass,No,Rourkela,340188.48,136075.39
+65,Female,Private,Covered,Heart Transplant,Yes,Cuttack,2850377.04,1140150.82
+88,Male,Private,Covered,Bypass,Yes,Bhubaneswar,485177.1,194070.84
+97,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,128636.33,128636.33
+44,Male,Private,Covered,Pacemaker Implant,No,Cuttack,396264.36,158505.74
+79,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,384699.02,384699.02
+63,Female,Government,Covered,Heart Transplant,No,Cuttack,1943897.1,485974.28
+96,Female,Government,Not Covered,Heart Transplant,No,Cuttack,2636144.59,2636144.59
+33,Male,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1548129.16,387032.29
+48,Female,Government,Covered,Angioplasty,Yes,Rourkela,117506.53,29376.63
+65,Male,Private,Not Covered,Valve Replacement,No,Cuttack,661751.35,661751.35
+78,Female,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,574498.94,229799.58
+26,Male,Private,Not Covered,Valve Replacement,Yes,Rourkela,558934.56,558934.56
+57,Male,Government,Not Covered,Valve Replacement,No,Cuttack,376590.82,376590.82
+53,Female,Private,Covered,Bypass,Yes,Bhubaneswar,308373.01,123349.2
+50,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,325102.8,130041.12
+47,Male,Government,Not Covered,Bypass,No,Cuttack,198471.67,198471.67
+25,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,131619.84,131619.84
+69,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2062917.41,2062917.41
+69,Male,Government,Covered,Bypass,No,Bhubaneswar,298041.32,74510.33
+90,Male,Government,Covered,Bypass,Yes,Bhubaneswar,335234.33,83808.58
+95,Male,Government,Covered,Bypass,No,Bhubaneswar,237074.62,59268.65
+94,Female,Government,Not Covered,Valve Replacement,No,Rourkela,337865.93,337865.93
+75,Female,Government,Covered,Heart Transplant,Yes,Rourkela,2277826.15,569456.54
+80,Female,Private,Not Covered,Pacemaker Implant,No,Cuttack,670149,670149
+91,Female,Private,Not Covered,Bypass,Yes,Rourkela,522421.36,522421.36
+94,Male,Government,Covered,Valve Replacement,No,Rourkela,273125.95,68281.49
+37,Male,Private,Covered,Heart Transplant,Yes,Rourkela,2638177.28,1055270.91
+68,Male,Private,Covered,Bypass,Yes,Rourkela,348558.95,139423.58
+96,Male,Private,Covered,Bypass,No,Cuttack,440551.86,176220.74
+48,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,399301.53,399301.53
+63,Female,Government,Not Covered,Valve Replacement,No,Cuttack,359983.6,359983.6
+49,Female,Private,Covered,Angioplasty,Yes,Rourkela,189498.25,75799.3
+94,Male,Government,Covered,Angioplasty,No,Rourkela,223259.1,55814.78
+39,Female,Government,Covered,Bypass,Yes,Cuttack,220647.15,55161.79
+74,Male,Government,Covered,Angioplasty,Yes,Bhubaneswar,191048.1,47762.03
+58,Male,Private,Covered,Bypass,No,Bhubaneswar,307566.07,123026.43
+86,Female,Private,Covered,Angioplasty,Yes,Cuttack,196750.54,78700.22
+29,Female,Private,Not Covered,Bypass,No,Cuttack,250501.2,250501.2
+49,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,377993.12,94498.28
+62,Male,Government,Covered,Bypass,No,Bhubaneswar,273940.87,68485.22
+55,Male,Private,Not Covered,Angioplasty,No,Rourkela,274306.23,274306.23
+56,Female,Private,Not Covered,Bypass,No,Bhubaneswar,393011.24,393011.24
+79,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,2055426.28,513856.57
+84,Male,Government,Covered,Heart Transplant,No,Bhubaneswar,1856225.9,464056.47
+51,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,189803.64,75921.46
+99,Female,Private,Covered,Valve Replacement,No,Cuttack,396830.95,158732.38
+100,Female,Private,Covered,Heart Transplant,No,Rourkela,4137496.85,1654998.74
+91,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,425118.73,425118.73
+95,Male,Government,Covered,Angioplasty,Yes,Bhubaneswar,86748.28,21687.07
+46,Male,Government,Covered,Heart Transplant,Yes,Bhubaneswar,1956708.06,489177.02
+29,Male,Private,Covered,Valve Replacement,No,Cuttack,371098.2,148439.28
+47,Male,Government,Not Covered,Bypass,No,Bhubaneswar,211955.1,211955.1
+55,Male,Private,Covered,Angioplasty,No,Rourkela,275378.94,110151.58
+28,Female,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1721562.4,1721562.4
+30,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,2137339.2,534334.8
+91,Male,Private,Not Covered,Bypass,Yes,Cuttack,409114.37,409114.37
+100,Male,Government,Not Covered,Valve Replacement,No,Cuttack,350776.01,350776.01
+66,Male,Private,Covered,Bypass,No,Bhubaneswar,436392.79,174557.12
+26,Male,Private,Covered,Angioplasty,No,Rourkela,259809.12,103923.65
+77,Female,Private,Covered,Valve Replacement,Yes,Cuttack,558195.3,223278.12
+69,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3739241.61,1495696.64
+54,Male,Private,Not Covered,Valve Replacement,No,Rourkela,349396.99,349396.99
+35,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2248201.87,2248201.87
+60,Male,Private,Covered,Angioplasty,Yes,Bhubaneswar,143151.54,57260.62
+70,Female,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,398030.69,99507.67
+24,Female,Private,Covered,Heart Transplant,No,Rourkela,2951625.6,1180650.24
+87,Female,Government,Covered,Angioplasty,Yes,Cuttack,219746.1,54936.53
+82,Female,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3354751.51,1341900.6
+58,Female,Government,Covered,Bypass,Yes,Cuttack,200008.9,50002.22
+62,Male,Government,Covered,Bypass,Yes,Bhubaneswar,212189.61,53047.4
+85,Female,Private,Covered,Angioplasty,No,Rourkela,219368.95,87747.58
+42,Female,Private,Not Covered,Bypass,No,Rourkela,418841.11,418841.11
+49,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,108571.44,108571.44
+73,Male,Private,Not Covered,Bypass,Yes,Cuttack,424814.54,424814.54
+62,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,422759.31,422759.31
+98,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,225769.63,225769.63
+59,Male,Private,Not Covered,Bypass,Yes,Cuttack,370297.12,370297.12
+92,Male,Private,Covered,Heart Transplant,No,Rourkela,4209686.47,1683874.59
+62,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2823397.78,2823397.78
+21,Male,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,554900.4,221960.16
+30,Female,Private,Covered,Pacemaker Implant,Yes,Rourkela,598590.72,239436.29
+67,Female,Private,Covered,Angioplasty,Yes,Cuttack,311907.74,124763.1
+52,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,298757.21,298757.21
+88,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,2868004.37,1147201.75
+66,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,749641.16,749641.16
+55,Female,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,230114.7,57528.68
+36,Male,Government,Covered,Angioplasty,No,Rourkela,168392.64,42098.16
+68,Female,Private,Covered,Angioplasty,No,Bhubaneswar,234903.14,93961.26
+57,Male,Government,Covered,Valve Replacement,Yes,Bhubaneswar,205330.58,51332.64
+67,Male,Government,Covered,Valve Replacement,No,Rourkela,438568.69,109642.17
+54,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,405078.02,101269.51
+93,Female,Private,Covered,Valve Replacement,Yes,Bhubaneswar,581237.36,232494.94
+78,Male,Private,Covered,Bypass,Yes,Bhubaneswar,467003.59,186801.44
+72,Female,Private,Covered,Angioplasty,Yes,Rourkela,187853.08,75141.23
+64,Female,Private,Covered,Valve Replacement,No,Rourkela,432311.26,172924.5
+33,Female,Private,Covered,Valve Replacement,Yes,Cuttack,519776.75,207910.7
+95,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,390025.73,97506.43
+97,Male,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,598050.63,598050.63
+28,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,128386.56,128386.56
+52,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,318840.84,318840.84
+96,Male,Private,Not Covered,Angioplasty,No,Rourkela,213552.46,213552.46
+84,Male,Private,Covered,Bypass,Yes,Rourkela,426620.64,170648.26
+68,Male,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,519078.71,519078.71
+29,Male,Private,Covered,Bypass,No,Rourkela,373616.76,149446.7
+27,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,2220943.2,888377.28
+38,Male,Government,Covered,Heart Transplant,No,Rourkela,1863009.41,465752.35
+49,Male,Government,Covered,Angioplasty,Yes,Cuttack,153391.63,38347.91
+68,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,513651.6,513651.6
+34,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,273005.86,273005.86
+75,Male,Government,Not Covered,Angioplasty,No,Cuttack,117783.36,117783.36
+84,Male,Private,Covered,Heart Transplant,Yes,Rourkela,4058021.25,1623208.5
+60,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,95636.02,95636.02
+24,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2606439.6,2606439.6
+30,Male,Private,Covered,Heart Transplant,Yes,Cuttack,2180371.2,872148.48
+87,Male,Private,Covered,Bypass,Yes,Bhubaneswar,478833.87,191533.55
+60,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,2994910.5,1197964.2
+43,Male,Private,Not Covered,Bypass,Yes,Rourkela,415028.97,415028.97
+63,Female,Private,Not Covered,Angioplasty,Yes,Cuttack,250988.95,250988.95
+77,Male,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,589890.83,589890.83
+21,Male,Government,Covered,Bypass,Yes,Rourkela,281008.32,70252.08
+49,Male,Government,Covered,Valve Replacement,Yes,Rourkela,299138.93,74784.73
+36,Female,Government,Covered,Valve Replacement,Yes,Bhubaneswar,181622.78,45405.69
+20,Male,Private,Covered,Valve Replacement,Yes,Cuttack,482019.12,192807.65
+25,Female,Government,Covered,Heart Transplant,No,Cuttack,1625341.52,406335.38
+40,Female,Private,Not Covered,Heart Transplant,No,Cuttack,2586525.48,2586525.48
+46,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,140371.49,140371.49
+95,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,163497.79,163497.79
+20,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,96168,96168
+66,Male,Private,Covered,Bypass,No,Bhubaneswar,390641.41,156256.56
+41,Male,Private,Covered,Pacemaker Implant,No,Bhubaneswar,555373.94,222149.58
+40,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,451581.98,112895.49
+60,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,782819.35,782819.35
+57,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,349215.44,349215.44
+25,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,211813.2,84725.28
+36,Female,Private,Covered,Angioplasty,Yes,Cuttack,109027.68,43611.07
+63,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,345011.49,345011.49
+84,Male,Government,Covered,Valve Replacement,No,Bhubaneswar,297950.13,74487.53
+69,Female,Government,Covered,Valve Replacement,No,Cuttack,362906.4,90726.6
+31,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,478652.72,478652.72
+51,Female,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,606639.7,242655.88
+21,Female,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,262412,262412
+29,Male,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,563676.96,563676.96
+45,Female,Private,Not Covered,Heart Transplant,No,Rourkela,3478321.94,3478321.94
+56,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,173175.75,173175.75
+48,Female,Government,Not Covered,Angioplasty,No,Bhubaneswar,110907.94,110907.94
+25,Male,Government,Not Covered,Heart Transplant,No,Cuttack,1990042.56,1990042.56
+90,Male,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,312043.68,312043.68
+51,Male,Private,Covered,Angioplasty,No,Bhubaneswar,209079.7,83631.88
+23,Female,Government,Not Covered,Bypass,No,Bhubaneswar,199283.04,199283.04
+21,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,363523.2,363523.2
+38,Female,Private,Covered,Valve Replacement,Yes,Cuttack,350530.75,140212.3
+57,Male,Private,Covered,Bypass,Yes,Rourkela,319456.69,127782.68
+27,Female,Government,Covered,Valve Replacement,Yes,Cuttack,289332.56,72333.14
+91,Female,Private,Covered,Pacemaker Implant,No,Rourkela,382501.76,153000.7
+90,Male,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,85061.6,85061.6
+36,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,405348.67,101337.17
+24,Female,Government,Covered,Angioplasty,Yes,Bhubaneswar,96536.8,24134.2
+37,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,2860912.97,2860912.97
+46,Female,Private,Covered,Bypass,No,Rourkela,396334.94,158533.98
+56,Female,Government,Covered,Angioplasty,No,Cuttack,145631.87,36407.97
+64,Male,Government,Covered,Pacemaker Implant,No,Cuttack,386061.62,96515.4
+34,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,301199.55,75299.89
+87,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,506029.04,506029.04
+43,Female,Government,Covered,Bypass,Yes,Rourkela,281042.42,70260.6
+90,Male,Government,Covered,Valve Replacement,No,Bhubaneswar,229669.44,57417.36
+60,Male,Private,Covered,Valve Replacement,Yes,Bhubaneswar,381372.66,152549.06
+45,Female,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,423713.4,169485.36
+43,Male,Private,Covered,Valve Replacement,Yes,Bhubaneswar,413179.96,165271.98
+87,Female,Private,Covered,Heart Transplant,No,Bhubaneswar,3679218.78,1471687.51
+74,Male,Government,Covered,Valve Replacement,Yes,Bhubaneswar,198900.02,49725
+56,Male,Government,Covered,Angioplasty,No,Bhubaneswar,93255.74,23313.94
+50,Male,Private,Not Covered,Valve Replacement,Yes,Rourkela,541738.3,541738.3
+80,Male,Government,Not Covered,Bypass,Yes,Cuttack,262979,262979
+99,Female,Private,Covered,Valve Replacement,No,Bhubaneswar,556633.09,222653.24
+56,Female,Government,Not Covered,Valve Replacement,No,Rourkela,320557.32,320557.32
+94,Female,Government,Covered,Heart Transplant,Yes,Cuttack,2656912.58,664228.15
+87,Male,Government,Covered,Angioplasty,Yes,Rourkela,100280.58,25070.15
+68,Female,Government,Covered,Heart Transplant,No,Rourkela,2218110.12,554527.53
+48,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2024999.56,2024999.56
+72,Male,Government,Covered,Angioplasty,Yes,Bhubaneswar,76782.73,19195.68
+23,Female,Government,Covered,Pacemaker Implant,No,Rourkela,175705.92,43926.48
+88,Male,Government,Covered,Valve Replacement,No,Rourkela,461489.76,115372.44
+83,Female,Government,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,273025.46,273025.46
+47,Male,Private,Not Covered,Angioplasty,No,Rourkela,143665.8,143665.8
+74,Male,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,584239.94,584239.94
+48,Male,Private,Not Covered,Pacemaker Implant,No,Rourkela,346539.43,346539.43
+74,Male,Government,Covered,Angioplasty,Yes,Bhubaneswar,123978.35,30994.59
+87,Female,Private,Not Covered,Bypass,Yes,Rourkela,438985.2,438985.2
+27,Male,Government,Covered,Angioplasty,Yes,Rourkela,130519.84,32629.96
+93,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,372396.43,372396.43
+59,Female,Government,Covered,Angioplasty,Yes,Rourkela,90457.56,22614.39
+54,Female,Government,Not Covered,Angioplasty,No,Rourkela,75760.12,75760.12
+32,Male,Private,Covered,Bypass,No,Cuttack,333971.45,133588.58
+94,Female,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,751343.47,751343.47
+66,Female,Government,Covered,Angioplasty,No,Cuttack,187355.4,46838.85
+82,Female,Private,Not Covered,Pacemaker Implant,Yes,Rourkela,872220.18,872220.18
+20,Female,Private,Not Covered,Angioplasty,Yes,Cuttack,248109.84,248109.84
+24,Male,Private,Not Covered,Angioplasty,No,Bhubaneswar,225140.4,225140.4
+76,Male,Private,Covered,Heart Transplant,Yes,Rourkela,3598035.61,1439214.24
+92,Male,Government,Not Covered,Bypass,Yes,Cuttack,294617.95,294617.95
+40,Female,Government,Covered,Pacemaker Implant,No,Rourkela,368604.43,92151.11
+25,Female,Government,Covered,Heart Transplant,Yes,Rourkela,1971752.64,492938.16
+93,Male,Private,Not Covered,Angioplasty,No,Rourkela,235866.82,235866.82
+30,Female,Private,Covered,Valve Replacement,No,Bhubaneswar,262027.2,104810.88
+47,Male,Government,Covered,Heart Transplant,No,Cuttack,2028244.4,507061.1
+47,Female,Government,Covered,Pacemaker Implant,Yes,Rourkela,277809.3,69452.32
+27,Female,Government,Not Covered,Pacemaker Implant,No,Cuttack,168010.4,168010.4
+60,Female,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3589022.3,1435608.92
+28,Female,Government,Not Covered,Valve Replacement,Yes,Rourkela,223803.36,223803.36
+60,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,266616,266616
+42,Female,Private,Covered,Heart Transplant,No,Cuttack,2894750.31,1157900.12
+70,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,601387.78,601387.78
+48,Female,Government,Covered,Valve Replacement,No,Cuttack,208818.8,52204.7
+24,Female,Government,Covered,Pacemaker Implant,No,Bhubaneswar,169997.6,42499.4
+34,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,187613.5,75045.4
+32,Male,Government,Not Covered,Bypass,Yes,Cuttack,209039.3,209039.3
+28,Female,Private,Not Covered,Valve Replacement,No,Bhubaneswar,401918.4,401918.4
+92,Male,Government,Covered,Valve Replacement,Yes,Cuttack,436241.42,109060.35
+61,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,525076.68,525076.68
+47,Male,Private,Not Covered,Valve Replacement,No,Rourkela,319040.52,319040.52
+60,Male,Government,Not Covered,Heart Transplant,No,Bhubaneswar,2144003.33,2144003.33
+81,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,436837.39,109209.35
+84,Female,Private,Not Covered,Bypass,Yes,Cuttack,421216.84,421216.84
+89,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,443601.27,443601.27
+49,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,426282.62,106570.65
+45,Female,Government,Covered,Valve Replacement,Yes,Cuttack,288001.19,72000.3
+96,Male,Government,Not Covered,Heart Transplant,Yes,Cuttack,2051682.47,2051682.47
+87,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,175521.65,175521.65
+75,Male,Private,Not Covered,Bypass,Yes,Cuttack,440041.56,440041.56
+97,Male,Private,Not Covered,Bypass,Yes,Rourkela,416074.64,416074.64
+79,Female,Government,Covered,Bypass,Yes,Cuttack,237053.98,59263.5
+90,Female,Private,Covered,Bypass,No,Cuttack,366523.56,146609.42
+27,Female,Private,Covered,Valve Replacement,Yes,Rourkela,520146,208058.4
+78,Female,Government,Not Covered,Bypass,No,Cuttack,232196.45,232196.45
+66,Male,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,408927.21,408927.21
+79,Male,Government,Covered,Bypass,Yes,Cuttack,248363.56,62090.89
+39,Male,Government,Not Covered,Heart Transplant,Yes,Bhubaneswar,1774739.38,1774739.38
+56,Male,Private,Not Covered,Bypass,No,Cuttack,329988.02,329988.02
+57,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,356142.12,356142.12
+94,Male,Government,Not Covered,Valve Replacement,Yes,Cuttack,354770.06,354770.06
+56,Male,Private,Covered,Pacemaker Implant,No,Cuttack,649530.64,259812.26
+91,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,360977.62,360977.62
+38,Female,Private,Covered,Pacemaker Implant,Yes,Bhubaneswar,560404.42,224161.77
+78,Female,Private,Not Covered,Valve Replacement,Yes,Cuttack,699648.08,699648.08
+64,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,106620.7,106620.7
+36,Female,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3098981.76,3098981.76
+37,Male,Private,Not Covered,Valve Replacement,No,Cuttack,370104.95,370104.95
+41,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,1746939.05,436734.76
+46,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,428732.09,107183.02
+62,Female,Government,Covered,Valve Replacement,Yes,Rourkela,349273.87,87318.47
+62,Female,Private,Covered,Valve Replacement,No,Cuttack,607871.09,243148.44
+51,Female,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2483556.89,2483556.89
+26,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2483246.4,2483246.4
+46,Female,Government,Not Covered,Valve Replacement,Yes,Cuttack,330175.61,330175.61
+69,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2268003.6,2268003.6
+20,Female,Government,Not Covered,Heart Transplant,No,Cuttack,1811662.16,1811662.16
+75,Female,Private,Covered,Angioplasty,Yes,Rourkela,225003.49,90001.4
+99,Male,Government,Covered,Valve Replacement,Yes,Cuttack,303196.89,75799.22
+33,Male,Government,Covered,Heart Transplant,No,Bhubaneswar,1935501.39,483875.35
+57,Male,Private,Not Covered,Heart Transplant,No,Rourkela,2837523.38,2837523.38
+73,Female,Private,Covered,Bypass,Yes,Bhubaneswar,376246.67,150498.67
+28,Male,Government,Covered,Valve Replacement,No,Cuttack,213216,53304
+91,Female,Government,Covered,Bypass,No,Rourkela,334317.61,83579.4
+78,Male,Government,Covered,Angioplasty,Yes,Cuttack,192055.56,48013.89
+39,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,433073.92,433073.92
+47,Male,Private,Covered,Bypass,No,Cuttack,375901.72,150360.69
+25,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,131750.08,131750.08
+77,Male,Government,Not Covered,Heart Transplant,No,Cuttack,2429731.59,2429731.59
+35,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,286161.96,286161.96
+34,Male,Private,Covered,Heart Transplant,No,Bhubaneswar,2555453.74,1022181.5
+87,Male,Private,Covered,Pacemaker Implant,Yes,Cuttack,659750.87,263900.35
+98,Male,Government,Covered,Bypass,Yes,Bhubaneswar,335411.65,83852.91
+50,Male,Private,Covered,Valve Replacement,No,Bhubaneswar,420150.72,168060.29
+28,Female,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,404280,404280
+93,Male,Private,Covered,Valve Replacement,No,Rourkela,601555.06,240622.02
+23,Female,Government,Covered,Angioplasty,No,Bhubaneswar,66672.8,16668.2
+38,Male,Government,Covered,Valve Replacement,Yes,Cuttack,207092.37,51773.09
+46,Female,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,133151.04,133151.04
+48,Female,Private,Covered,Valve Replacement,Yes,Cuttack,335024.84,134009.94
+80,Male,Private,Covered,Valve Replacement,No,Cuttack,404113.05,161645.22
+57,Female,Private,Not Covered,Bypass,Yes,Bhubaneswar,322655.35,322655.35
+33,Male,Private,Covered,Valve Replacement,No,Rourkela,452055.22,180822.09
+22,Female,Private,Covered,Bypass,Yes,Bhubaneswar,377846.04,151138.42
+62,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,196800.03,49200.01
+85,Male,Government,Covered,Angioplasty,Yes,Rourkela,203657.69,50914.42
+37,Male,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,222108.1,222108.1
+24,Female,Government,Covered,Angioplasty,No,Rourkela,130046.4,32511.6
+96,Male,Government,Covered,Bypass,Yes,Bhubaneswar,302411.46,75602.87
+84,Male,Private,Not Covered,Bypass,No,Bhubaneswar,477941.64,477941.64
+26,Male,Private,Not Covered,Angioplasty,No,Bhubaneswar,128586,128586
+25,Male,Private,Covered,Valve Replacement,Yes,Rourkela,567187.2,226874.88
+60,Female,Private,Covered,Bypass,No,Bhubaneswar,438138.82,175255.53
+90,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3415239.36,1366095.74
+90,Female,Government,Covered,Heart Transplant,Yes,Rourkela,2630168.74,657542.19
+97,Female,Private,Covered,Heart Transplant,Yes,Rourkela,3780040.11,1512016.04
+20,Male,Government,Covered,Pacemaker Implant,No,Rourkela,210038.4,52509.6
+27,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3143983.68,1257593.47
+67,Male,Private,Not Covered,Heart Transplant,No,Rourkela,3637096.04,3637096.04
+61,Female,Private,Not Covered,Bypass,No,Cuttack,406451.43,406451.43
+82,Male,Private,Not Covered,Angioplasty,No,Rourkela,228240.63,228240.63
+20,Male,Private,Covered,Valve Replacement,Yes,Cuttack,376758.72,150703.49
+64,Female,Private,Covered,Angioplasty,Yes,Rourkela,201760.42,80704.17
+44,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,475061.51,475061.51
+36,Male,Government,Covered,Angioplasty,No,Rourkela,84770.15,21192.54
+53,Male,Government,Not Covered,Angioplasty,No,Bhubaneswar,172390.6,172390.6
+67,Female,Private,Not Covered,Heart Transplant,Yes,Rourkela,3283171.62,3283171.62
+73,Female,Private,Not Covered,Valve Replacement,No,Cuttack,450347.04,450347.04
+59,Male,Private,Not Covered,Heart Transplant,Yes,Cuttack,3104067.98,3104067.98
+30,Female,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,468470.4,468470.4
+81,Female,Government,Covered,Bypass,Yes,Cuttack,276707.42,69176.85
+62,Male,Government,Covered,Valve Replacement,No,Cuttack,219868.07,54967.02
+75,Male,Private,Not Covered,Angioplasty,No,Rourkela,230263.74,230263.74
+92,Female,Government,Not Covered,Bypass,No,Cuttack,261882.62,261882.62
+65,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2003240.58,2003240.58
+66,Male,Government,Not Covered,Valve Replacement,No,Cuttack,243760.25,243760.25
+28,Female,Private,Covered,Heart Transplant,No,Rourkela,3292701.12,1317080.45
+28,Female,Government,Covered,Angioplasty,No,Rourkela,160970.88,40242.72
+85,Female,Private,Not Covered,Bypass,No,Bhubaneswar,402491.13,402491.13
+26,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,291323.2,72830.8
+69,Male,Private,Covered,Bypass,Yes,Bhubaneswar,364970.93,145988.37
+91,Female,Private,Not Covered,Bypass,Yes,Rourkela,545232.97,545232.97
+96,Male,Government,Covered,Valve Replacement,No,Cuttack,358052.28,89513.07
+70,Female,Private,Covered,Valve Replacement,No,Cuttack,437109.55,174843.82
+31,Male,Private,Covered,Valve Replacement,Yes,Rourkela,416468.82,166587.53
+99,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,392620.24,98155.06
+72,Male,Private,Not Covered,Angioplasty,No,Bhubaneswar,195899.48,195899.48
+95,Male,Government,Covered,Angioplasty,No,Cuttack,123529.54,30882.38
+38,Female,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,487247.9,487247.9
+94,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,504446.98,201778.79
+80,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,670113,268045.2
+90,Female,Government,Covered,Angioplasty,Yes,Rourkela,199435.39,49858.85
+40,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,96294.66,96294.66
+95,Female,Private,Covered,Heart Transplant,Yes,Cuttack,3551480.92,1420592.37
+55,Male,Private,Not Covered,Bypass,No,Rourkela,306885.65,306885.65
+29,Female,Government,Not Covered,Angioplasty,Yes,Rourkela,99002.88,99002.88
+35,Male,Private,Not Covered,Heart Transplant,No,Rourkela,2717454.74,2717454.74
+65,Male,Government,Not Covered,Angioplasty,Yes,Cuttack,207712.18,207712.18
+69,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,267561.46,267561.46
+68,Male,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,710747.02,710747.02
+82,Female,Government,Covered,Angioplasty,Yes,Bhubaneswar,184462.99,46115.75
+51,Male,Private,Covered,Heart Transplant,Yes,Cuttack,2782873.55,1113149.42
+86,Male,Government,Covered,Valve Replacement,Yes,Cuttack,241028.2,60257.05
+29,Male,Government,Covered,Pacemaker Implant,Yes,Cuttack,363193.6,90798.4
+20,Female,Private,Not Covered,Valve Replacement,No,Cuttack,317969.52,317969.52
+94,Female,Private,Covered,Pacemaker Implant,No,Bhubaneswar,406907.42,162762.97
+67,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2071547.8,2071547.8
+27,Female,Government,Not Covered,Valve Replacement,No,Rourkela,266790.72,266790.72
+48,Female,Private,Not Covered,Pacemaker Implant,Yes,Bhubaneswar,374738.34,374738.34
+66,Male,Government,Not Covered,Heart Transplant,No,Rourkela,2083254.32,2083254.32
+53,Male,Government,Not Covered,Angioplasty,No,Rourkela,122925.72,122925.72
+97,Female,Government,Covered,Bypass,Yes,Bhubaneswar,349526.5,87381.62
+21,Male,Private,Covered,Bypass,No,Cuttack,296871.6,118748.64
+69,Male,Government,Not Covered,Valve Replacement,No,Rourkela,392802.43,392802.43
+47,Male,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,439859.87,439859.87
+37,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,366565.12,366565.12
+73,Female,Private,Covered,Bypass,Yes,Cuttack,350530.9,140212.36
+71,Male,Government,Not Covered,Angioplasty,No,Rourkela,154488.33,154488.33
+52,Male,Private,Not Covered,Heart Transplant,No,Bhubaneswar,2887676.1,2887676.1
+50,Female,Private,Not Covered,Heart Transplant,Yes,Rourkela,3367751.9,3367751.9
+51,Male,Private,Not Covered,Valve Replacement,No,Bhubaneswar,308143.84,308143.84
+26,Male,Private,Not Covered,Valve Replacement,Yes,Bhubaneswar,293817.6,293817.6
+55,Female,Government,Covered,Angioplasty,No,Cuttack,82588.77,20647.19
+97,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2689096.05,2689096.05
+27,Female,Private,Not Covered,Bypass,Yes,Cuttack,240084,240084
+51,Female,Private,Not Covered,Valve Replacement,Yes,Rourkela,561216.77,561216.77
+49,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,246458.22,61614.56
+75,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,328964.44,328964.44
+84,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,104973.93,104973.93
+54,Male,Private,Not Covered,Pacemaker Implant,No,Cuttack,368814.97,368814.97
+72,Male,Private,Not Covered,Bypass,Yes,Rourkela,478642.51,478642.51
+32,Female,Government,Covered,Angioplasty,No,Rourkela,160379.6,40094.9
+32,Male,Government,Not Covered,Valve Replacement,No,Rourkela,302049.79,302049.79
+89,Female,Private,Covered,Pacemaker Implant,No,Rourkela,837884.48,335153.79
+38,Female,Government,Covered,Pacemaker Implant,No,Cuttack,380088.97,95022.24
+70,Female,Private,Covered,Bypass,Yes,Cuttack,410958.72,164383.49
+63,Female,Private,Not Covered,Pacemaker Implant,No,Rourkela,475631.47,475631.47
+89,Female,Government,Covered,Heart Transplant,No,Bhubaneswar,2263302.58,565825.65
+63,Female,Government,Covered,Valve Replacement,No,Cuttack,232720.03,58180.01
+44,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2190264.66,2190264.66
+43,Female,Private,Covered,Heart Transplant,Yes,Bhubaneswar,3304920.27,1321968.11
+72,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,179939.1,179939.1
+28,Female,Government,Covered,Valve Replacement,No,Bhubaneswar,188593.6,47148.4
+84,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,732238.11,292895.24
+24,Female,Private,Covered,Valve Replacement,No,Bhubaneswar,425751.6,170300.64
+39,Male,Government,Not Covered,Bypass,Yes,Bhubaneswar,228270.47,228270.47
+24,Female,Private,Covered,Valve Replacement,Yes,Cuttack,573353.28,229341.31
+38,Female,Private,Not Covered,Angioplasty,Yes,Rourkela,146303.54,146303.54
+34,Female,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,221845.59,221845.59
+23,Female,Private,Covered,Pacemaker Implant,No,Cuttack,554340,221736
+99,Female,Private,Not Covered,Angioplasty,Yes,Rourkela,195938.31,195938.31
+59,Male,Government,Covered,Valve Replacement,No,Rourkela,380630.98,95157.74
+97,Male,Private,Covered,Angioplasty,Yes,Cuttack,158631.48,63452.59
+27,Male,Private,Covered,Bypass,No,Rourkela,300473.28,120189.31
+76,Male,Private,Covered,Pacemaker Implant,No,Cuttack,484042.24,193616.9
+69,Male,Private,Not Covered,Pacemaker Implant,No,Cuttack,544404.91,544404.91
+44,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,288601.08,288601.08
+39,Male,Government,Not Covered,Pacemaker Implant,No,Rourkela,345102.81,345102.81
+96,Male,Government,Covered,Bypass,Yes,Cuttack,261247.11,65311.78
+31,Female,Private,Not Covered,Bypass,No,Bhubaneswar,365644.13,365644.13
+47,Male,Private,Covered,Bypass,No,Bhubaneswar,297449.32,118979.73
+58,Male,Private,Covered,Pacemaker Implant,Yes,Cuttack,360119.71,144047.88
+93,Male,Private,Not Covered,Angioplasty,Yes,Rourkela,274843.1,274843.1
+72,Female,Private,Covered,Pacemaker Implant,Yes,Rourkela,653685.75,261474.3
+78,Female,Government,Not Covered,Valve Replacement,No,Bhubaneswar,314050.34,314050.34
+81,Female,Government,Not Covered,Angioplasty,Yes,Bhubaneswar,167226.24,167226.24
+30,Male,Government,Covered,Bypass,Yes,Bhubaneswar,185401.92,46350.48
+26,Female,Government,Covered,Angioplasty,No,Cuttack,127393.2,31848.3
+72,Male,Government,Not Covered,Angioplasty,Yes,Rourkela,128597.25,128597.25
+20,Female,Private,Not Covered,Angioplasty,Yes,Bhubaneswar,199687.2,199687.2
+73,Male,Government,Covered,Heart Transplant,No,Cuttack,1931570.74,482892.68
+72,Female,Private,Covered,Valve Replacement,Yes,Rourkela,345653.25,138261.3
+62,Female,Private,Covered,Valve Replacement,No,Cuttack,375513.02,150205.21
+29,Female,Private,Not Covered,Heart Transplant,Yes,Rourkela,2542250.04,2542250.04
+88,Female,Private,Covered,Pacemaker Implant,No,Cuttack,401687.42,160674.97
+40,Male,Private,Covered,Bypass,Yes,Rourkela,330257.09,132102.84
+74,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,3701531.92,3701531.92
+68,Female,Private,Not Covered,Valve Replacement,No,Bhubaneswar,360098.76,360098.76
+56,Male,Government,Not Covered,Heart Transplant,No,Cuttack,2280364.05,2280364.05
+95,Female,Government,Covered,Bypass,Yes,Rourkela,265225.99,66306.5
+63,Male,Private,Not Covered,Heart Transplant,Yes,Bhubaneswar,2911891.4,2911891.4
+85,Male,Private,Covered,Valve Replacement,No,Rourkela,453275.35,181310.14
+39,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,193039.51,77215.8
+91,Male,Private,Not Covered,Angioplasty,Yes,Rourkela,200971.04,200971.04
+94,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,533278.94,133319.73
+71,Female,Private,Covered,Bypass,No,Cuttack,335940.5,134376.2
+26,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,206189.6,206189.6
+59,Male,Private,Not Covered,Angioplasty,Yes,Cuttack,159566.05,159566.05
+44,Female,Private,Not Covered,Valve Replacement,Yes,Rourkela,544480.2,544480.2
+68,Female,Government,Covered,Bypass,Yes,Bhubaneswar,264309.09,66077.27
+79,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2261607.64,2261607.64
+78,Female,Government,Covered,Angioplasty,Yes,Cuttack,107937.14,26984.28
+55,Male,Government,Covered,Valve Replacement,No,Cuttack,203767.74,50941.93
+61,Male,Government,Not Covered,Heart Transplant,No,Cuttack,1869335.44,1869335.44
+89,Male,Private,Not Covered,Valve Replacement,Yes,Rourkela,658246.43,658246.43
+44,Male,Private,Not Covered,Heart Transplant,Yes,Rourkela,3540718.34,3540718.34
+65,Male,Private,Not Covered,Heart Transplant,No,Cuttack,3155500.19,3155500.19
+81,Female,Private,Covered,Angioplasty,Yes,Rourkela,147469.33,58987.73
+36,Female,Private,Not Covered,Angioplasty,No,Bhubaneswar,228095.15,228095.15
+56,Female,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,302010.49,302010.49
+85,Male,Government,Covered,Heart Transplant,Yes,Rourkela,2382078.93,595519.73
+70,Male,Private,Covered,Valve Replacement,Yes,Rourkela,396020.59,158408.24
+96,Male,Private,Covered,Valve Replacement,No,Rourkela,433984.32,173593.73
+100,Female,Government,Covered,Angioplasty,No,Rourkela,135605.45,33901.36
+99,Female,Government,Not Covered,Valve Replacement,Yes,Cuttack,316386.93,316386.93
+71,Female,Government,Covered,Valve Replacement,Yes,Cuttack,305668.78,76417.2
+33,Male,Government,Covered,Pacemaker Implant,Yes,Rourkela,192352.41,48088.1
+81,Male,Private,Not Covered,Angioplasty,No,Rourkela,194548.69,194548.69
+75,Male,Government,Covered,Angioplasty,Yes,Cuttack,127194.3,31798.58
+81,Female,Government,Not Covered,Heart Transplant,No,Rourkela,2164081.74,2164081.74
+33,Female,Government,Not Covered,Bypass,No,Bhubaneswar,238303.08,238303.08
+29,Female,Government,Covered,Valve Replacement,No,Rourkela,234515.52,58628.88
+97,Female,Government,Covered,Valve Replacement,No,Rourkela,416974.97,104243.74
+26,Male,Government,Covered,Bypass,No,Cuttack,181180,45295
+85,Female,Government,Not Covered,Heart Transplant,No,Bhubaneswar,1934608.5,1934608.5
+38,Male,Private,Covered,Valve Replacement,Yes,Cuttack,300225.87,120090.35
+72,Female,Private,Not Covered,Valve Replacement,No,Rourkela,369082.14,369082.14
+58,Female,Private,Covered,Bypass,Yes,Cuttack,321162.62,128465.05
+46,Female,Government,Covered,Valve Replacement,No,Rourkela,315365.53,78841.38
+22,Female,Government,Not Covered,Bypass,No,Cuttack,198768.8,198768.8
+68,Male,Private,Covered,Bypass,No,Rourkela,427647.73,171059.09
+85,Female,Private,Covered,Angioplasty,No,Bhubaneswar,292542.12,117016.85
+21,Male,Government,Covered,Angioplasty,Yes,Rourkela,91903.68,22975.92
+45,Male,Private,Covered,Angioplasty,No,Rourkela,261296.21,104518.48
+79,Male,Government,Covered,Angioplasty,No,Cuttack,192644.83,48161.21
+54,Male,Government,Covered,Heart Transplant,No,Bhubaneswar,1649361.28,412340.32
+43,Male,Government,Covered,Heart Transplant,Yes,Cuttack,1897564.77,474391.19
+65,Female,Government,Not Covered,Pacemaker Implant,No,Rourkela,208331.45,208331.45
+80,Female,Government,Not Covered,Bypass,No,Rourkela,260475.6,260475.6
+61,Female,Private,Covered,Heart Transplant,No,Cuttack,2835111.09,1134044.44
+39,Female,Government,Covered,Angioplasty,No,Bhubaneswar,69621.24,17405.31
+85,Female,Private,Not Covered,Valve Replacement,No,Rourkela,442593.5,442593.5
+37,Female,Government,Covered,Pacemaker Implant,No,Rourkela,379112.05,94778.01
+85,Female,Government,Not Covered,Heart Transplant,Yes,Cuttack,2439638.65,2439638.65
+46,Male,Government,Not Covered,Valve Replacement,No,Rourkela,357944.83,357944.83
+42,Male,Government,Covered,Bypass,Yes,Cuttack,188286.53,47071.63
+60,Female,Private,Not Covered,Bypass,Yes,Cuttack,334385.04,334385.04
+20,Male,Government,Covered,Angioplasty,No,Bhubaneswar,76033.6,19008.4
+74,Female,Private,Covered,Heart Transplant,No,Cuttack,3390347.74,1356139.1
+26,Male,Government,Not Covered,Bypass,Yes,Cuttack,221027.2,221027.2
+65,Male,Government,Covered,Bypass,Yes,Cuttack,194789.62,48697.4
+56,Female,Government,Covered,Bypass,Yes,Bhubaneswar,266491.24,66622.81
+57,Female,Government,Covered,Valve Replacement,Yes,Rourkela,265089.51,66272.38
+48,Male,Government,Not Covered,Angioplasty,No,Rourkela,141594.66,141594.66
+68,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2095600.28,2095600.28
+100,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,493414.42,197365.77
+57,Female,Government,Not Covered,Heart Transplant,Yes,Rourkela,2066478.7,2066478.7
+72,Female,Government,Covered,Angioplasty,No,Cuttack,186620.04,46655.01
+20,Male,Government,Covered,Heart Transplant,Yes,Cuttack,1676091.2,419022.8
+42,Male,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,223771.26,223771.26
+34,Female,Government,Covered,Bypass,Yes,Cuttack,237344.21,59336.05
+68,Female,Private,Covered,Pacemaker Implant,No,Bhubaneswar,351205.75,140482.3
+73,Male,Government,Covered,Heart Transplant,No,Rourkela,2190908.61,547727.15
+45,Male,Government,Not Covered,Valve Replacement,Yes,Bhubaneswar,210352.56,210352.56
+60,Male,Private,Covered,Heart Transplant,Yes,Bhubaneswar,2694950.94,1077980.38
+29,Female,Government,Not Covered,Bypass,Yes,Bhubaneswar,210897.28,210897.28
+44,Male,Government,Not Covered,Bypass,No,Rourkela,254136.47,254136.47
+43,Male,Government,Not Covered,Valve Replacement,Yes,Rourkela,376339.31,376339.31
+25,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,427331.52,106832.88
+48,Male,Private,Not Covered,Heart Transplant,No,Rourkela,3483655,3483655
+99,Female,Government,Covered,Pacemaker Implant,Yes,Cuttack,457294.51,114323.63
+40,Male,Private,Covered,Angioplasty,No,Bhubaneswar,147428.82,58971.53
+21,Male,Government,Not Covered,Bypass,Yes,Rourkela,251670.72,251670.72
+47,Male,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,478672.49,478672.49
+69,Female,Government,Not Covered,Angioplasty,Yes,Cuttack,179333.75,179333.75
+83,Male,Government,Covered,Valve Replacement,No,Bhubaneswar,224108.41,56027.1
+83,Female,Private,Not Covered,Pacemaker Implant,No,Bhubaneswar,563047.45,563047.45
+36,Male,Private,Covered,Pacemaker Implant,No,Cuttack,541141.19,216456.48
+99,Male,Government,Not Covered,Pacemaker Implant,Yes,Rourkela,276915.92,276915.92
+89,Male,Private,Not Covered,Pacemaker Implant,Yes,Cuttack,455987.58,455987.58
+36,Female,Private,Covered,Angioplasty,Yes,Bhubaneswar,132024.58,52809.83
+84,Female,Government,Not Covered,Angioplasty,No,Cuttack,215446.05,215446.05
+37,Male,Government,Not Covered,Heart Transplant,No,Cuttack,1599056.78,1599056.78
+73,Male,Government,Covered,Valve Replacement,No,Cuttack,384614.76,96153.69
+100,Male,Private,Not Covered,Bypass,No,Cuttack,357621.48,357621.48
+60,Female,Government,Covered,Heart Transplant,No,Cuttack,2021194.92,505298.73
+63,Male,Government,Covered,Valve Replacement,Yes,Cuttack,398121.04,99530.26
+68,Male,Private,Not Covered,Heart Transplant,Yes,Cuttack,3409622.46,3409622.46
+93,Female,Private,Covered,Valve Replacement,Yes,Rourkela,743919.7,297567.88
+78,Female,Government,Not Covered,Bypass,No,Bhubaneswar,278817.97,278817.97
+50,Male,Private,Not Covered,Angioplasty,No,Bhubaneswar,262221.96,262221.96
+76,Female,Private,Covered,Valve Replacement,No,Cuttack,382305.84,152922.34
+26,Male,Government,Covered,Angioplasty,Yes,Rourkela,135044.8,33761.2
+30,Female,Private,Covered,Pacemaker Implant,Yes,Cuttack,314144.16,125657.66
+22,Female,Private,Not Covered,Bypass,No,Rourkela,408424.32,408424.32
+82,Male,Government,Not Covered,Heart Transplant,Yes,Rourkela,2337585.87,2337585.87
+26,Female,Government,Not Covered,Bypass,No,Rourkela,243347.28,243347.28
+82,Male,Government,Covered,Pacemaker Implant,Yes,Bhubaneswar,207959.47,51989.87
+66,Male,Private,Not Covered,Angioplasty,Yes,Rourkela,287595.26,287595.26
+98,Female,Government,Not Covered,Pacemaker Implant,Yes,Cuttack,521361.84,521361.84
+40,Female,Government,Covered,Bypass,Yes,Cuttack,171308.76,42827.19
+55,Female,Government,Covered,Heart Transplant,Yes,Cuttack,2029721.4,507430.35
+80,Female,Government,Covered,Valve Replacement,Yes,Cuttack,248164.4,62041.1
+44,Male,Government,Covered,Valve Replacement,Yes,Cuttack,357858.85,89464.71
+45,Female,Government,Not Covered,Pacemaker Implant,No,Bhubaneswar,185930.28,185930.28
+50,Female,Private,Covered,Heart Transplant,No,Cuttack,2779896.11,1111958.44
